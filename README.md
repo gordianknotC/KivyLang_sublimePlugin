@@ -61,3 +61,9 @@ if you have a better api please let me know!
 * for linux:
 
 * for mac:
+
+
+
+### todo
+- generate kivylang runner template
+- generate kv from photoshop PSD by translating html(table) to kv
