@@ -46,7 +46,7 @@ For the reason that this plugin is achieved by searching api2.txt, fetched from 
 
 anchor_x (kivy.uix.anchorlayout.AnchorLayout)
 
-anchor_y (kivy.graphics.svg.Svg attribute)
+anchor_y (kivy.graphics.svg.Svg)
 
 
 if you have a better api please let me know!
