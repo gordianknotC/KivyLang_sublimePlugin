@@ -66,4 +66,4 @@ if you have a better api please let me know!
 
 ### todo
 - generate kivylang runner template
-- generate kv from photoshop PSD by translating html(table) to kv
+- generate kv from PSD(photoshop) by translating html(table,tr,td) to kv with photoshopscript and python
