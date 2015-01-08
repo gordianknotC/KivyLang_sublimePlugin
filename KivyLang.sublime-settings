@@ -1,0 +1,15 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "qazwsxedcrfvtgbyhnujmikolpQAZWSXEDCRFVTGBYHNUJMIKOLP.\n ",
+			"selector": "source.python.kivy"
+		}
+	],
+	"color_scheme": "Packages/KivyLang/KivyLang.tmTheme",
+	"font_size": 9,
+	"theme": "KivyLang.sublime-theme",
+	"kivy_path": "",  			//not implement yet
+	"template_runner": "",	  	//not implement yet
+	"ps_path": ""	  			//not implement yet
+}

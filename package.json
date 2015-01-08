@@ -1,0 +1,10 @@
+{
+    "schema_version": "0.1",
+    "packages": [
+        {
+            "name": "KivyLang",
+            "description": "KivyLang auto-completion and syntax highlight",
+            "details": "https://github.com/gordianknot1981/KivyLang_sublimePlugin"
+        }
+    ]
+}

@@ -1,0 +1,3138 @@
+a (kivy.graphics.ClearColor attribute)
+a (kivy.graphics.Color attribute)
+a (kivy.graphics.context_instructions.Color attribute),
+a (kivy.graphics.gl_instructions.ClearColor attribute),
+a (kivy.uix.colorpicker.ColorWheel attribute),
+AbstractStore (class in kivy.storage)
+AbstractView (class in kivy.uix.abstractview),
+
+accept_stroke() (kivy.uix.gesturesurface.GestureContainer method)
+Accordion (class in kivy.uix.accordion)
+accordion (kivy.uix.accordion.AccordionItem attribute),
+
+AccordionException (class in kivy.uix.accordion),
+
+AccordionItem (class in kivy.uix.accordion),
+
+action_previous (kivy.uix.actionbar.ActionView attribute))
+action_view (kivy.uix.actionbar.ActionBar attribute),
+
+ActionBar (class in kivy.uix.actionbar)
+ActionBarException (class in kivy.uix.actionbar),
+
+ActionButton (class in kivy.uix.actionbar)
+ActionCheck (class in kivy.uix.actionbar)
+ActionDropDown (class in kivy.uix.actionbar),
+
+ActionGroup (class in kivy.uix.actionbar)
+ActionItem (class in kivy.uix.actionbar)
+ActionOverflow (class in kivy.uix.actionbar),
+
+ActionPrevious (class in kivy.uix.actionbar),
+
+ActionSeparator (class in kivy.uix.actionbar),
+
+ActionToggleButton (class in kivy.uix.actionbar),
+
+ActionView (class in kivy.uix.actionbar)
+active (kivy.uix.checkbox.CheckBox attribute),
+
+active (kivy.uix.switch.Switch attribute)
+active_norm_pos (kivy.uix.switch.Switch attribute),
+
+Adapter (class in kivy.adapters.adapter)
+adapter (kivy.uix.abstractview.AbstractView attribute),
+
+add() (kivy.graphics.InstructionGroup method),
+
+add() (kivy.graphics.instructions.InstructionGroup method)
+add_callback() (kivy.config.ConfigParser method),
+
+add_contour() (kivy.graphics.tesselator.Tesselator method)
+add_event_listener() (kivy.base.EventLoopBase method)
+add_gesture() (kivy.gesture.GestureDatabase method)
+add_gesture() (kivy.multistroke.Recognizer method)
+add_handler() (kivy.base.ExceptionManagerBase method)
+add_input_provider() (kivy.base.EventLoopBase method)
+add_interface() (kivy.uix.settings.Settings method)
+add_json_panel() (kivy.uix.settings.Settings method)
+add_kivy_panel() (kivy.uix.settings.Settings method)
+add_mipmap() (kivy.core.image.ImageData method)
+add_node() (kivy.uix.treeview.TreeView method),
+
+add_panel() (kivy.uix.settings.ContentPanel method)
+add_panel() (kivy.uix.settings.InterfaceWithSidebar method)
+add_point() (kivy.gesture.GestureStroke method),
+
+add_point() (kivy.graphics.Point method)
+add_point() (kivy.graphics.vertex_instructions.Point method)
+add_point() (kivy.multistroke.UnistrokeTemplate method)
+add_postproc_module() (kivy.base.EventLoopBase method),
+
+add_reload_observer() (kivy.graphics.context.Context method),
+
+add_reload_observer() (kivy.graphics.Fbo method)
+add_reload_observer() (kivy.graphics.fbo.Fbo method)
+add_reload_observer() (kivy.graphics.texture.Texture method),
+
+add_screen() (kivy.uix.screenmanager.TransitionBase method)
+add_stroke() (kivy.gesture.Gesture method),
+
+add_stroke() (kivy.multistroke.Candidate method)
+add_stroke() (kivy.multistroke.MultistrokeGesture method)
+add_stroke() (kivy.uix.gesturesurface.GestureContainer method)
+add_widget() (kivy.core.window.WindowBase method)
+add_widget() (kivy.uix.widget.Widget method),
+
+adddefaultsection() (kivy.config.ConfigParser method)
+AdvancedEffectBase ( kivy.uix.effectwidget)
+after (kivy.graphics.Canvas attribute)
+after (kivy.graphics.instructions.Canvas attribute),
+
+AliasProperty (class in kivy.properties)
+allow_copy (kivy.uix.textinput.TextInput attribute),
+
+allow_empty_selection (kivy.adapters.listadapter.ListAdapter attribute))
+allow_fullscreen (kivy.uix.videoplayer.VideoPlayer attribute))
+allow_no_selection (kivy.uix.behaviors.ToggleButtonBehavior attribute))
+allow_stretch (kivy.uix.image.Image attribute),
+
+anchor_x (kivy.graphics.svg.Svg attribute),
+
+anchor_x (kivy.uix.anchorlayout.AnchorLayout attribute))
+anchor_y (kivy.graphics.svg.Svg attribute),
+
+anchor_y (kivy.uix.anchorlayout.AnchorLayout attribute))
+AnchorLayout (class in kivy.uix.anchorlayout),
+
+anchors (kivy.core.text.markup.MarkupLabel attribute),
+
+anchors (kivy.uix.label.Label attribute)
+angle (kivy.graphics.context_instructions.Rotate attribute))
+angle (kivy.graphics.Rotate attribute)
+angle() (kivy.vector.Vector method)
+angle_end (kivy.graphics.Ellipse attribute)
+angle_end (kivy.graphics.vertex_instructions.Ellipse attribute))
+angle_start (kivy.graphics.Ellipse attribute)
+angle_start (kivy.graphics.vertex_instructions.Ellipse attribute))
+anim_available (kivy.core.image.Image attribute),
+
+anim_cancel_duration (kivy.uix.carousel.Carousel attribute))
+anim_delay (kivy.core.image.Image attribute),
+
+anim_delay (kivy.uix.image.Image attribute),
+
+anim_duration (kivy.uix.accordion.Accordion attribute),
+
+anim_func (kivy.uix.accordion.Accordion attribute),
+
+anim_index (kivy.core.image.Image attribute),
+
+anim_move_duration (kivy.uix.carousel.Carousel attribute))
+anim_reset() (kivy.core.image.Image method),
+
+anim_type (kivy.uix.carousel.Carousel attribute),
+
+animated_properties (kivy.animation.Animation attribute))
+Animation (class in kivy.animation)
+AnimationTransition (class in kivy.animation),
+
+annotations (kivy.uix.videoplayer.VideoPlayer attribute),
+
+App (class in kivy.app)
+app_icon (kivy.uix.actionbar.ActionPrevious attribute),
+
+append() (kivy.cache.Cache static method),
+
+apply() (kivy.lang.BuilderBase method)
+apply_transform() (kivy.uix.scatter.Scatter method)
+apply_transform_d() (kivy.input.MotionEvent method)
+apply_transform_d() (kivy.input.motionevent.MotionEvent method)
+ApplyContextMatrix (class in kivy.graphics)
+args_converter (kivy.adapters.adapter.Adapter attribute),
+
+arrow_image (kivy.uix.bubble.Bubble attribute),
+
+arrow_pos (kivy.uix.bubble.Bubble attribute),
+
+ask_update() (kivy.graphics.Callback method),
+
+ask_update() (kivy.graphics.Canvas method)
+ask_update() (kivy.graphics.instructions.Callback method)
+ask_update() (kivy.graphics.instructions.Canvas method)
+ask_update() (kivy.graphics.texture.Texture method)
+async_clear() (kivy.storage.AbstractStore method),
+
+async_count() (kivy.storage.AbstractStore method)
+async_delete() (kivy.storage.AbstractStore method)
+async_exists() (kivy.storage.AbstractStore method)
+async_find() (kivy.storage.AbstractStore method),
+
+async_get() (kivy.storage.AbstractStore method),
+
+async_keys() (kivy.storage.AbstractStore method),
+
+async_put() (kivy.storage.AbstractStore method),
+
+AsyncImage (class in kivy.uix.image)
+Atlas (class in kivy.atlas)
+attach_to (kivy.uix.dropdown.DropDown attribute),
+
+attach_to (kivy.uix.modalview.ModalView attribute),
+
+auto_bring_to_front (kivy.uix.scatter.Scatter attribute))
+auto_dismiss (kivy.uix.dropdown.DropDown attribute),
+
+auto_dismiss (kivy.uix.modalview.ModalView attribute),
+
+auto_indent (kivy.uix.textinput.TextInput attribute),
+
+auto_width (kivy.uix.dropdown.DropDown attribute),
+
+available_layouts (kivy.uix.vkeyboard.VKeyboard attribute))
+axis (kivy.graphics.context_instructions.Rotate attribute),
+
+axis (kivy.graphics.Rotate attribute)
+
+b (kivy.graphics.ClearColor attribute)
+b (kivy.graphics.Color attribute)
+b (kivy.graphics.context_instructions.Color attribute),
+
+b (kivy.graphics.gl_instructions.ClearColor attribute),
+
+b (kivy.uix.colorpicker.ColorWheel attribute),
+
+background (kivy.uix.modalview.ModalView attribute),
+
+background (kivy.uix.vkeyboard.VKeyboard attribute),
+
+background_active (kivy.uix.textinput.TextInput attribute))
+background_border (kivy.uix.vkeyboard.VKeyboard attribute))
+background_color (kivy.uix.actionbar.ActionBar attribute))
+background_color (kivy.uix.actionbar.ActionView attribute))
+background_color (kivy.uix.bubble.Bubble attribute),
+
+background_color (kivy.uix.button.Button attribute),
+
+background_color (kivy.uix.effectwidget.EffectWidget attribute))
+background_color (kivy.uix.listview.CompositeListItem attribute))
+background_color (kivy.uix.modalview.ModalView attribute))
+background_color (kivy.uix.rst.RstDocument attribute),
+
+background_color (kivy.uix.tabbedpanel.TabbedPanel attribute))
+background_color (kivy.uix.textinput.TextInput attribute))
+background_color (kivy.uix.vkeyboard.VKeyboard attribute))
+background_disabled (kivy.uix.vkeyboard.VKeyboard attribute),
+
+background_disabled_active (kivy.uix.textinput.TextInput attribute),
+
+background_disabled_down (kivy.uix.button.Button attribute),
+
+background_disabled_image (kivy.uix.tabbedpanel.TabbedPanel attribute))
+background_disabled_normal (kivy.uix.accordion.AccordionItem attribute))
+background_disabled_normal (kivy.uix.button.Button attribute),
+
+background_disabled_normal (kivy.uix.textinput.TextInput attribute),
+
+background_disabled_selected (kivy.uix.accordion.AccordionItem attribute))
+background_down (kivy.uix.actionbar.ActionItem attribute))
+background_down (kivy.uix.button.Button attribute),
+
+background_image (kivy.uix.actionbar.ActionBar attribute))
+background_image (kivy.uix.actionbar.ActionSeparator attribute))
+background_image (kivy.uix.actionbar.ActionView attribute))
+background_image (kivy.uix.bubble.Bubble attribute))
+background_image (kivy.uix.tabbedpanel.StripLayout attribute))
+background_image (kivy.uix.tabbedpanel.TabbedPanel attribute))
+background_normal (kivy.uix.accordion.AccordionItem attribute))
+background_normal (kivy.uix.actionbar.ActionItem attribute))
+background_normal (kivy.uix.button.Button attribute),
+
+background_normal (kivy.uix.textinput.TextInput attribute))
+background_selected (kivy.uix.accordion.AccordionItem attribute))
+bar_color (kivy.uix.scrollview.ScrollView attribute),
+
+bar_inactive_color (kivy.uix.scrollview.ScrollView attribute))
+bar_margin (kivy.uix.scrollview.ScrollView attribute),
+
+bar_pos (kivy.uix.scrollview.ScrollView attribute),
+
+bar_pos_x (kivy.uix.scrollview.ScrollView attribute),
+
+bar_pos_y (kivy.uix.scrollview.ScrollView attribute),
+
+bar_width (kivy.uix.scrollview.ScrollView attribute),
+
+base_font_size (kivy.uix.rst.RstDocument attribute),
+
+bbox (kivy.uix.scatter.Scatter attribute)
+before (kivy.graphics.Canvas attribute)
+before (kivy.graphics.instructions.Canvas attribute),
+
+best (kivy.multistroke.ProgressTracker attribute),
+
+Bezier (class in kivy.graphics)
+Bezier (class in kivy.graphics.vertex_instructions),
+
+bezier (kivy.graphics.Line attribute)
+bezier (kivy.graphics.vertex_instructions.Line attribute),
+
+bezier_precision (kivy.graphics.Line attribute)
+bezier_precision (kivy.graphics.vertex_instructions.Line attribute))
+bind() (kivy.event.EventDispatcher method),
+
+bind() (kivy.graphics.Fbo method)
+bind() (kivy.graphics.fbo.Fbo method)
+bind() (kivy.graphics.texture.Texture method),
+
+bind() (kivy.properties.Property method)
+BindTexture (class in kivy.graphics)
+BindTexture ( kivy.graphics.context_instructions),
+
+blit_buffer() (kivy.graphics.texture.Texture method)
+blit_data() (kivy.graphics.texture.Texture method),
+
+bold (kivy.uix.label.Label attribute)
+BooleanProperty (class in kivy.properties),
+
+border (kivy.graphics.BorderImage attribute)
+border (kivy.graphics.vertex_instructions.BorderImage attribute))
+border (kivy.uix.actionbar.ActionBar attribute),
+
+border (kivy.uix.bubble.Bubble attribute)
+border (kivy.uix.button.Button attribute)
+border (kivy.uix.modalview.ModalView attribute),
+
+border (kivy.uix.pagelayout.PageLayout attribute),
+
+border (kivy.uix.splitter.Splitter attribute),
+
+border (kivy.uix.tabbedpanel.StripLayout attribute),
+
+border (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+border (kivy.uix.textinput.TextInput attribute),
+
+BorderImage (class in kivy.graphics)
+BorderImage ( kivy.graphics.vertex_instructions)
+borderless (kivy.core.window.WindowBase attribute),
+
+boundary() (in module kivy.utils)
+BoundedNumericProperty (kivy.properties)
+bounds (kivy.properties.BoundedNumericProperty attribute))
+BoxLayout (class in kivy.uix.boxlayout)
+Bubble (class in kivy.uix.bubble)
+BubbleButton (class in kivy.uix.bubble)
+bufferfmt (kivy.graphics.texture.Texture attribute),
+
+build() (kivy.app.App method)
+build_config() (kivy.app.App method)
+build_settings() (kivy.app.App method)
+Builder (in module kivy.lang)
+BuilderBase (class in kivy.lang)
+BuilderException (class in kivy.lang)
+Button (class in kivy.uix.button)
+ButtonBehavior (class in kivy.uix.behaviors),
+
+
+Cache (class in kivy.cache)
+cached_views (kivy.adapters.listadapter.ListAdapter attribute))
+Callback (class in kivy.graphics)
+Callback (class in kivy.graphics.instructions),
+
+callback (kivy.core.window.Keyboard attribute),
+
+callback (kivy.uix.vkeyboard.VKeyboard attribute),
+
+Camera (class in kivy.uix.camera)
+CameraBase (class in kivy.core.camera)
+cancel() (kivy.animation.Animation method),
+
+cancel() (kivy.clock.ClockEvent method)
+cancel() (kivy.effects.kinetic.KineticEffect method)
+cancel() (kivy.uix.filechooser.FileChooserController method)
+cancel() (kivy.uix.filechooser.FileChooserProgressBase method)
+cancel_all() (kivy.animation.Animation static method)
+cancel_property() (kivy.animation.Animation method)
+cancel_selection() (kivy.uix.textinput.TextInput method)
+Candidate (class in kivy.multistroke)
+Canvas (class in kivy.graphics)
+Canvas (class in kivy.graphics.instructions),
+
+canvas (kivy.uix.widget.Widget attribute),
+
+CanvasBase (class in kivy.graphics)
+CanvasBase (class in kivy.graphics.instructions),
+
+cap (kivy.graphics.Line attribute)
+cap (kivy.graphics.vertex_instructions.Line attribute),
+
+cap_precision (kivy.graphics.Line attribute)
+cap_precision (kivy.graphics.vertex_instructions.Line attribute))
+Carousel (class in kivy.uix.carousel)
+center (kivy.core.window.WindowBase attribute),
+
+center (kivy.uix.widget.Widget attribute),
+
+center_stroke() (kivy.gesture.GestureStroke method)
+center_x (kivy.uix.widget.Widget attribute),
+
+center_y (kivy.uix.widget.Widget attribute),
+
+ChangeState (class in kivy.graphics)
+ChannelMixEffect (class in kivy.uix.effectwidget),
+
+check() (kivy.core.spelling.SpellingBase method),
+
+CheckBox (class in kivy.uix.checkbox)
+children (kivy.core.window.WindowBase attribute),
+
+children (kivy.uix.widget.Widget attribute),
+
+chunk_size (kivy.network.urlrequest.UrlRequest attribute))
+circle (kivy.graphics.Line attribute)
+circle (kivy.graphics.vertex_instructions.Line attribute),
+
+circumcircle() (in module kivy.geometry)
+clear() (kivy.core.window.WindowBase method),
+
+clear() (kivy.graphics.Canvas method)
+clear() (kivy.graphics.InstructionGroup method),
+
+clear() (kivy.graphics.instructions.Canvas method)
+clear() (kivy.graphics.instructions.InstructionGroup method)
+clear() (kivy.storage.AbstractStore method)
+clear_buffer() (kivy.graphics.Fbo method)
+clear_buffer() (kivy.graphics.fbo.Fbo method),
+
+clear_color (kivy.graphics.ClearBuffers attribute),
+
+clear_color (kivy.graphics.Fbo attribute)
+clear_color (kivy.graphics.fbo.Fbo attribute),
+
+clear_color (kivy.graphics.gl_instructions.ClearBuffers attribute))
+clear_depth (kivy.graphics.ClearBuffers attribute),
+
+
+clear_depth (kivy.graphics.gl_instructions.ClearBuffers attribute))
+clear_selection() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+clear_stencil (kivy.graphics.ClearBuffers attribute),
+
+clear_stencil (kivy.graphics.gl_instructions.ClearBuffers attribute))
+clear_widgets() (kivy.uix.widget.Widget method),
+
+ClearBuffers (class in kivy.graphics)
+ClearBuffers ( kivy.graphics.gl_instructions),
+
+ClearColor (class in kivy.graphics)
+ClearColor (class in kivy.graphics.gl_instructions),
+
+clearcolor (kivy.core.window.WindowBase attribute),
+
+clearcolor (kivy.uix.screenmanager.ShaderTransition attribute))
+Clock (in module kivy.clock)
+ClockBase (class in kivy.clock)
+ClockEvent (class in kivy.clock)
+close (kivy.graphics.Line attribute)
+close (kivy.graphics.vertex_instructions.Line attribute),
+
+close() (kivy.base.EventLoopBase method),
+
+close() (kivy.core.window.WindowBase method),
+
+close_settings() (kivy.app.App method)
+cls (kivy.adapters.adapter.Adapter attribute),
+
+cls (kivy.uix.widget.Widget attribute)
+cm() (in module kivy.metrics)
+CodeInput (class in kivy.uix.codeinput)
+col_default_width (kivy.uix.gridlayout.GridLayout attribute))
+col_force_default (kivy.uix.gridlayout.GridLayout attribute))
+collapse (kivy.uix.accordion.AccordionItem attribute),
+
+collapse_alpha (kivy.uix.accordion.AccordionItem attribute))
+collide_margin() (kivy.uix.vkeyboard.VKeyboard method)
+collide_point() (kivy.uix.widget.Widget method),
+
+collide_widget() (kivy.uix.widget.Widget method)
+Color (class in kivy.graphics)
+Color (class in kivy.graphics.context_instructions),
+
+color (kivy.uix.colorpicker.ColorPicker attribute),
+
+color (kivy.uix.colorpicker.ColorWheel attribute),
+
+color (kivy.uix.image.Image attribute)
+color (kivy.uix.label.Label attribute)
+color_selected (kivy.uix.treeview.TreeViewNode attribute))
+colorfmt (kivy.graphics.texture.Texture attribute),
+
+ColorPicker (class in kivy.uix.colorpicker)
+colors (kivy.uix.rst.RstDocument attribute),
+
+ColorWheel (class in kivy.uix.colorpicker),
+
+cols (kivy.uix.gridlayout.GridLayout attribute),
+
+cols_minimum (kivy.uix.gridlayout.GridLayout attribute))
+complete_stroke() (kivy.uix.gesturesurface.GestureContainer method)
+CompositeListItem (class in kivy.uix.listview),
+
+CompoundSelectionBehavior ( kivy.uix.behaviors)
+Config (in module kivy.config)
+config (kivy.app.App attribute)
+config (kivy.uix.settings.SettingsPanel attribute),
+
+ConfigParser (class in kivy.config)
+ConfigParserProperty (class in kivy.properties),
+
+container (kivy.uix.accordion.AccordionItem attribute),
+
+container (kivy.uix.dropdown.DropDown attribute),
+
+container (kivy.uix.listview.ListView attribute),
+
+container (kivy.uix.settings.ContentPanel attribute),
+
+container_title (kivy.uix.accordion.AccordionItem attribute))
+content (kivy.uix.bubble.Bubble attribute),
+
+content (kivy.uix.popup.Popup attribute)
+content (kivy.uix.settings.InterfaceWithSidebar attribute),
+
+content (kivy.uix.settings.SettingItem attribute),
+
+content (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+content (kivy.uix.tabbedpanel.TabbedPanelHeader attribute))
+content_height (kivy.core.text.LabelBase attribute),
+
+content_size (kivy.core.text.LabelBase attribute),
+
+
+content_size (kivy.uix.accordion.AccordionItem attribute))
+content_width (kivy.core.text.LabelBase attribute),
+
+ContentPanel (class in kivy.uix.settings)
+Context (class in kivy.graphics.context)
+ContextInstruction (class in kivy.graphics)
+ContextInstruction ( kivy.graphics.instructions)
+ContextualActionView ( kivy.uix.actionbar)
+convert_distance_to_scroll() (kivy.uix.scrollview.ScrollView method),
+
+copy() (kivy.uix.textinput.TextInput method),
+
+copy_to() (kivy.input.MotionEvent method)
+copy_to() (kivy.input.motionevent.MotionEvent method)
+count() (kivy.storage.AbstractStore method)
+counter (kivy.input.recorder.Recorder attribute),
+
+create() (kivy.atlas.Atlas static method)
+create() (kivy.graphics.texture.Texture method),
+
+create() (kivy.input.providers.tuio.TuioMotionEventProvider static method)
+create_from_data() (kivy.graphics.texture.Texture method)
+create_inspector() (in module kivy.modules.inspector)
+create_json_panel() (kivy.uix.settings.Settings method)
+create_property() (kivy.event.EventDispatcher method)
+create_settings() (kivy.app.App method)
+create_trigger() (kivy.clock.ClockBase method),
+
+create_view() (kivy.adapters.listadapter.ListAdapter method)
+create_window() (kivy.core.window.WindowBase method)
+current (kivy.uix.screenmanager.ScreenManager attribute))
+current_panel (kivy.uix.settings.ContentPanel attribute),
+
+current_screen (kivy.uix.screenmanager.ScreenManager attribute))
+current_slide (kivy.uix.carousel.Carousel attribute),
+
+current_tab (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+current_uid (kivy.uix.settings.ContentPanel attribute),
+
+cursor (kivy.uix.textinput.TextInput attribute),
+
+cursor_blink (kivy.uix.textinput.TextInput attribute),
+
+cursor_col (kivy.uix.textinput.TextInput attribute),
+
+cursor_color (kivy.uix.textinput.TextInput attribute),
+
+cursor_index() (kivy.uix.textinput.TextInput method)
+cursor_offset() (kivy.uix.textinput.TextInput method)
+cursor_pos (kivy.uix.textinput.TextInput attribute),
+
+cursor_row (kivy.uix.textinput.TextInput attribute),
+
+cut() (kivy.uix.textinput.TextInput method),
+
+cut_to_sel() (kivy.adapters.dictadapter.DictAdapter method)
+cut_to_sel() (kivy.adapters.listadapter.ListAdapter method)
+
+DampedScrollEffect ( kivy.effects.dampedscroll)
+dash_length (kivy.graphics.Bezier attribute)
+dash_length (kivy.graphics.Line attribute)
+dash_length (kivy.graphics.vertex_instructions.Bezier attribute))
+dash_length (kivy.graphics.vertex_instructions.Line attribute))
+dash_offset (kivy.graphics.Bezier attribute)
+dash_offset (kivy.graphics.Line attribute)
+dash_offset (kivy.graphics.vertex_instructions.Bezier attribute))
+dash_offset (kivy.graphics.vertex_instructions.Line attribute))
+data (kivy.adapters.adapter.Adapter attribute),
+
+data (kivy.adapters.dictadapter.DictAdapter attribute),
+
+data (kivy.adapters.listadapter.ListAdapter attribute),
+
+data (kivy.adapters.simplelistadapter.SimpleListAdapter attribute))
+data (kivy.core.image.ImageData attribute),
+
+decode_result() (kivy.network.urlrequest.UrlRequest method)
+default_tab (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+default_tab_cls (kivy.uix.tabbedpanel.TabbedPanel attribute))
+default_tab_content (kivy.uix.tabbedpanel.TabbedPanel attribute))
+
+default_tab_text (kivy.uix.tabbedpanel.TabbedPanel attribute))
+delete() (kivy.storage.AbstractStore method)
+delete_selection() (kivy.uix.textinput.TextInput method)
+density() (kivy.metrics.MetricsBase method),
+
+depack() (kivy.input.MotionEvent method)
+depack() (kivy.input.motionevent.MotionEvent method)
+deprecated() (in module kivy.utils)
+desc (kivy.uix.settings.SettingItem attribute),
+
+deselect() (kivy.uix.listview.SelectableView method)
+deselect_node() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+deselected_color (kivy.uix.listview.CompositeListItem attribute))
+deselected_color (kivy.uix.listview.ListItemButton attribute))
+destroy_settings() (kivy.app.App method),
+
+device (kivy.input.motionevent.MotionEvent attribute),
+
+DictAdapter (class in kivy.adapters.dictadapter),
+
+DictProperty (class in kivy.properties)
+DictStore (class in kivy.storage.dictstore)
+difference() (in module kivy.utils)
+direction (kivy.uix.carousel.Carousel attribute),
+
+direction (kivy.uix.screenmanager.SlideTransition attribute))
+directory (kivy.app.App attribute)
+dirselect (kivy.uix.filechooser.FileChooserController attribute))
+disabled (kivy.uix.settings.SettingItem attribute),
+
+disabled (kivy.uix.widget.Widget attribute),
+
+disabled_color (kivy.uix.label.Label attribute),
+
+disabled_foreground_color (kivy.uix.textinput.TextInput attribute),
+
+dismiss() (kivy.uix.dropdown.DropDown method)
+dismiss() (kivy.uix.modalview.ModalView method)
+dismiss_on_select (kivy.uix.dropdown.DropDown attribute))
+dispatch() (kivy.event.EventDispatcher method),
+
+dispatch() (kivy.properties.Property method),
+
+dispatch_input() (kivy.base.EventLoopBase method)
+displacement (kivy.effects.scroll.ScrollEffect attribute))
+display_settings() (kivy.app.App method),
+
+distance() (kivy.input.MotionEvent method)
+distance() (kivy.input.motionevent.MotionEvent method)
+distance() (kivy.vector.Vector method)
+distance() (kivy.vector.Vector method)
+divider (kivy.uix.listview.ListView attribute),
+
+divider_height (kivy.uix.listview.ListView attribute),
+
+do_backspace() (kivy.uix.textinput.TextInput method)
+do_collide_after_children (kivy.uix.scatter.Scatter attribute))
+do_cursor_movement() (kivy.uix.textinput.TextInput method),
+
+do_default_tab (kivy.uix.tabbedpanel.TabbedPanel attribute))
+do_layout() (kivy.uix.layout.Layout method),
+
+do_redo() (kivy.uix.textinput.TextInput method),
+
+do_rotation (kivy.uix.scatter.Scatter attribute),
+
+do_scale (kivy.uix.scatter.Scatter attribute),
+
+do_scroll (kivy.uix.scrollview.ScrollView attribute),
+
+do_scroll_x (kivy.uix.scrollview.ScrollView attribute),
+
+do_scroll_y (kivy.uix.scrollview.ScrollView attribute),
+
+do_translation (kivy.uix.scatter.Scatter attribute),
+
+do_translation_x (kivy.uix.scatter.Scatter attribute),
+
+do_translation_y (kivy.uix.scatter.Scatter attribute),
+
+do_undo() (kivy.uix.textinput.TextInput method),
+
+docked (kivy.uix.vkeyboard.VKeyboard attribute),
+
+document_root (kivy.uix.rst.RstDocument attribute),
+
+dot() (kivy.vector.Vector method)
+dot_product() (kivy.gesture.Gesture method),
+
+double_tap_time (kivy.input.motionevent.MotionEvent  attribute))
+dp() (in module kivy.metrics)
+dpi() (kivy.core.window.WindowBase method),
+
+dpi() (kivy.metrics.MetricsBase method)
+dpi_rounded() (kivy.metrics.MetricsBase method),
+
+dpos (kivy.input.MotionEvent attribute)
+dpos (kivy.input.motionevent.MotionEvent attribute),
+
+drag_distance (kivy.uix.behaviors.DragBehavior attribute))
+drag_rect_height (kivy.uix.behaviors.DragBehavior attribute))
+drag_rect_width (kivy.uix.behaviors.DragBehavior attribute))
+drag_rect_x (kivy.uix.behaviors.DragBehavior attribute),
+
+drag_rect_y (kivy.uix.behaviors.DragBehavior attribute),
+
+drag_rectangle (kivy.uix.behaviors.DragBehavior attribute))
+drag_threshold (kivy.effects.scroll.ScrollEffect attribute),
+
+drag_timeout (kivy.uix.behaviors.DragBehavior attribute))
+DragBehavior (class in kivy.uix.behaviors),
+
+draw() (kivy.graphics.Canvas method)
+draw() (kivy.graphics.instructions.Canvas method)
+DropDown (class in kivy.uix.dropdown)
+dropdown_cls (kivy.uix.spinner.Spinner attribute),
+
+dsx (kivy.input.motionevent.MotionEvent attribute),
+
+dsy (kivy.input.motionevent.MotionEvent attribute),
+
+dsz (kivy.input.motionevent.MotionEvent attribute),
+
+duration (kivy.animation.Animation attribute),
+
+duration (kivy.core.video.VideoBase attribute),
+
+duration (kivy.uix.screenmanager.FallOutTransition attribute))
+duration (kivy.uix.screenmanager.RiseInTransition attribute))
+duration (kivy.uix.screenmanager.TransitionBase attribute))
+duration (kivy.uix.video.Video attribute),
+
+duration (kivy.uix.videoplayer.VideoPlayer attribute),
+
+duration (kivy.uix.videoplayer.VideoPlayerAnnotation attribute))
+dx (kivy.input.motionevent.MotionEvent attribute),
+
+dy (kivy.input.motionevent.MotionEvent attribute),
+
+dz (kivy.input.motionevent.MotionEvent attribute),
+
+
+edge_damping (kivy.effects.dampedscroll.DampedScrollEffect attribute))
+effect_cls (kivy.uix.scrollview.ScrollView attribute),
+
+effect_x (kivy.uix.scrollview.ScrollView attribute),
+
+effect_y (kivy.uix.scrollview.ScrollView attribute),
+
+EffectBase (class in kivy.uix.effectwidget)
+effects (kivy.uix.effectwidget.EffectWidget attribute),
+
+EffectWidget (class in kivy.uix.effectwidget),
+
+element_count (kivy.graphics.tesselator.Tesselator attribute))
+Ellipse (class in kivy.graphics)
+Ellipse (class in kivy.graphics.vertex_instructions),
+
+ellipse (kivy.graphics.Line attribute)
+ellipse (kivy.graphics.vertex_instructions.Line attribute),
+
+ensure_window() (kivy.base.EventLoopBase method)
+entry_released() (kivy.uix.filechooser.FileChooserController method)
+entry_touched() (kivy.uix.filechooser.FileChooserController method)
+eos (kivy.uix.video.Video attribute)
+error (kivy.network.urlrequest.UrlRequest attribute),
+
+error_image (kivy.loader.LoaderBase attribute),
+
+escape_markup() (in module kivy.utils)
+even_color (kivy.uix.treeview.TreeViewNode attribute),
+
+EventDispatcher (class in kivy.event)
+EventLoop (in module kivy.base)
+EventLoopBase (class in kivy.base)
+events() (kivy.event.EventDispatcher method),
+
+ExceptionHandler (class in kivy.base)
+ExceptionManager (in module kivy.base)
+ExceptionManagerBase (class in kivy.base),
+
+exists() (kivy.storage.AbstractStore method)
+exit() (kivy.base.EventLoopBase method)
+
+export_gesture() (kivy.multistroke.Recognizer method)
+export_to_png() (kivy.uix.widget.Widget method)
+
+Factory (in module kivy.factory)
+FadeTransition (class in kivy.uix.screenmanager),
+
+FallOutTransition ( kivy.uix.screenmanager)
+fast_bind() (kivy.event.EventDispatcher method),
+
+fast_bind() (kivy.event.Observable method),
+
+fast_bind() (kivy.lang.Observable method),
+
+fast_bind() (kivy.properties.Property method),
+
+fast_unbind() (kivy.event.EventDispatcher method)
+fast_unbind() (kivy.event.Observable method),
+
+fast_unbind() (kivy.lang.Observable method),
+
+fast_unbind() (kivy.properties.Property method),
+
+Fbo (class in kivy.graphics)
+Fbo (class in kivy.graphics.fbo)
+fbo (kivy.uix.effectwidget.EffectBase attribute),
+
+fbo_list (kivy.uix.effectwidget.EffectWidget attribute),
+
+file_encodings (kivy.uix.filechooser.FileChooserController attribute))
+file_system (kivy.uix.filechooser.FileChooserController attribute))
+FileChooser (class in kivy.uix.filechooser)
+FileChooserController ( kivy.uix.filechooser)
+FileChooserIconLayout ( kivy.uix.filechooser)
+FileChooserIconView ( kivy.uix.filechooser)
+FileChooserListLayout ( kivy.uix.filechooser)
+FileChooserListView ( kivy.uix.filechooser)
+FileChooserProgressBase ( kivy.uix.filechooser)
+filename (kivy.atlas.Atlas attribute)
+filename (kivy.core.audio.Sound attribute),
+
+filename (kivy.core.image.Image attribute),
+
+filename (kivy.core.video.VideoBase attribute),
+
+filename (kivy.graphics.svg.Svg attribute),
+
+filename (kivy.input.recorder.Recorder attribute),
+
+files (kivy.uix.filechooser.FileChooserController attribute))
+FileSystemAbstract (class in kivy.uix.filechooser),
+
+FileSystemLocal (class in kivy.uix.filechooser),
+
+filter() (kivy.multistroke.Recognizer method),
+
+filter_dirs (kivy.uix.filechooser.FileChooserController attribute))
+filters (kivy.uix.filechooser.FileChooserController attribute))
+find() (kivy.gesture.GestureDatabase method),
+
+find() (kivy.storage.AbstractStore method)
+find_colliding_gesture() (kivy.uix.gesturesurface.GestureSurface method)
+find_double_tap() (kivy.input.postproc.doubletap.InputPostprocDoubleTap method)
+find_triple_tap() (kivy.input.postproc.tripletap.InputPostprocTripleTap method)
+flip() (kivy.core.window.WindowBase method),
+
+flip_horizontal() (kivy.graphics.texture.Texture method)
+flip_vertical (kivy.core.image.ImageData attribute),
+
+flip_vertical() (kivy.graphics.texture.Texture method)
+FloatLayout (class in kivy.uix.floatlayout)
+fmt (kivy.core.image.ImageData attribute),
+
+focus (kivy.uix.textinput.TextInput attribute),
+
+focus_next (kivy.uix.behaviors.FocusBehavior attribute),
+
+focus_previous (kivy.uix.behaviors.FocusBehavior attribute))
+FocusBehavior (class in kivy.uix.behaviors),
+
+focused (kivy.uix.behaviors.FocusBehavior attribute),
+
+font_name (kivy.uix.colorpicker.ColorPicker attribute),
+
+font_name (kivy.uix.label.Label attribute)
+font_name (kivy.uix.textinput.TextInput attribute),
+
+font_size (kivy.uix.label.Label attribute)
+
+font_size (kivy.uix.textinput.TextInput attribute),
+
+fontid (kivy.core.text.LabelBase attribute)
+fontscale() (kivy.metrics.MetricsBase method),
+
+foreground_color (kivy.uix.textinput.TextInput attribute),
+
+frames (kivy.clock.ClockBase attribute)
+frames_displayed (kivy.clock.ClockBase attribute),
+
+frametime (kivy.clock.ClockBase attribute),
+
+friction (kivy.effects.kinetic.KineticEffect attribute),
+
+fs (kivy.graphics.shader.Shader attribute)
+fs (kivy.uix.screenmanager.ShaderTransition attribute),
+
+fullscreen (kivy.core.window.WindowBase attribute),
+
+fullscreen (kivy.uix.videoplayer.VideoPlayer attribute),
+
+func_op (kivy.graphics.stencil_instructions.StencilUse attribute))
+func_op (kivy.graphics.StencilUse attribute)
+FXAAEffect (class in kivy.uix.effectwidget),
+
+
+g (kivy.graphics.ClearColor attribute)
+g (kivy.graphics.Color attribute)
+g (kivy.graphics.context_instructions.Color attribute),
+
+g (kivy.graphics.gl_instructions.ClearColor attribute),
+
+g (kivy.uix.colorpicker.ColorWheel attribute),
+
+garden_system_dir (in module kivy.garden)
+Gesture (class in kivy.gesture)
+gesture_to_str() (kivy.gesture.GestureDatabase method)
+GestureContainer ( kivy.uix.gesturesurface)
+GestureDatabase (class in kivy.gesture)
+GestureStroke (class in kivy.gesture)
+GestureSurface (class in kivy.uix.gesturesurface),
+
+get() (kivy.cache.Cache static method)
+get() (kivy.input.factory.MotionEventFactory static method)
+get() (kivy.input.MotionEventFactory static method)
+get() (kivy.properties.Property method)
+get() (kivy.storage.AbstractStore method)
+get_angle_similarity() (kivy.multistroke.Candidate method),
+
+get_application_config() (kivy.app.App method),
+
+get_application_icon() (kivy.app.App method),
+
+get_application_name() (kivy.app.App method),
+
+get_boottime() (kivy.clock.ClockBase method),
+
+get_cached_extents() (kivy.core.text.LabelBase method)
+get_cls() (kivy.adapters.adapter.Adapter method),
+
+get_color_from_hex() (in module kivy.utils),
+
+get_configparser() (kivy.config.ConfigParser static method)
+get_connection_for_scheme() (kivy.network.urlrequest.UrlRequest method)
+get_current_context() (in module kivy.context),
+
+get_cursor_from_index() (kivy.uix.textinput.TextInput method),
+
+get_cursor_from_xy() (kivy.uix.textinput.TextInput method),
+
+get_distance() (kivy.multistroke.MultistrokeGesture method)
+get_extents() (kivy.core.text.LabelBase method),
+
+get_format() (kivy.properties.NumericProperty method)
+get_fps() (kivy.clock.ClockBase method)
+get_gesture() (kivy.uix.gesturesurface.GestureSurface method)
+get_group() (kivy.graphics.InstructionGroup method)
+get_group() (kivy.graphics.instructions.InstructionGroup method)
+get_hex_from_color() (in module kivy.utils),
+
+get_lastaccess() (kivy.cache.Cache static method),
+
+get_max() (kivy.properties.BoundedNumericProperty method)
+get_min() (kivy.properties.BoundedNumericProperty method)
+get_mipmap() (kivy.core.image.ImageData method)
+get_nice_size() (kivy.uix.filechooser.FileChooserController method)
+get_node_at_pos() (kivy.uix.treeview.TreeView method)
+get_parent_window() (kivy.uix.widget.Widget method)
+get_pixel_color() (kivy.graphics.Fbo method)
+get_pixel_color() (kivy.graphics.fbo.Fbo method),
+
+get_pos() (kivy.core.audio.Sound method),
+
+get_property_observers() (kivy.event.EventDispatcher method),
+
+get_protractor_vector() (kivy.multistroke.Candidate method),
+
+get_random_color() (in module kivy.utils),
+
+get_region() (kivy.graphics.texture.Texture method)
+get_rfps() (kivy.clock.ClockBase method)
+get_rigid_rotation() (kivy.gesture.Gesture method)
+get_root_window() (kivy.uix.widget.Widget method)
+get_running_app() (kivy.app.App static method),
+
+get_score() (kivy.gesture.Gesture method),
+
+get_screen() (kivy.uix.screenmanager.ScreenManager method)
+get_selectable_nodes() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+get_start_unit_vector() (kivy.multistroke.Candidate method),
+
+get_time() (kivy.clock.ClockBase method)
+get_timestamp() (kivy.cache.Cache static method),
+
+get_value() (kivy.uix.settings.SettingsPanel method)
+get_vectors() (kivy.uix.gesturesurface.GestureContainer method)
+get_widgets() (kivy.uix.behaviors.ToggleButtonBehavior static method)
+getdefault() (kivy.config.ConfigParser method),
+
+getdefaultint() (kivy.config.ConfigParser method),
+
+getsize() (kivy.uix.filechooser.FileSystemAbstract method)
+getter() (kivy.event.EventDispatcher method),
+
+gl_get_extensions() (in module kivy.graphics.opengl_utils)
+gl_get_texture_formats() (in module kivy.graphics.opengl_utils)
+gl_get_version() (in module kivy.graphics.opengl_utils)
+gl_get_version_major() (in module kivy.graphics.opengl_utils)
+gl_get_version_minor() (in module kivy.graphics.opengl_utils)
+gl_has_capability() (in module kivy.graphics.opengl_utils)
+gl_has_extension() (in module kivy.graphics.opengl_utils)
+gl_has_texture_conversion() (in module kivy.graphics.opengl_utils)
+gl_has_texture_format() (in module kivy.graphics.opengl_utils)
+gl_has_texture_native_format() (in module kivy.graphics.opengl_utils)
+gl_register_get_size() (in module kivy.graphics.opengl_utils)
+glActiveTexture() (in module kivy.graphics.opengl)
+glAttachShader() (in module kivy.graphics.opengl)
+glBindAttribLocation() (in module kivy.graphics.opengl)
+glBindBuffer() (in module kivy.graphics.opengl),
+
+glBindFramebuffer() (in module kivy.graphics.opengl)
+glBindRenderbuffer() (in module kivy.graphics.opengl)
+glBindTexture() (in module kivy.graphics.opengl),
+
+glBlendColor() (in module kivy.graphics.opengl),
+
+glBlendEquation() (in module kivy.graphics.opengl)
+glBlendEquationSeparate() (in module kivy.graphics.opengl)
+glBlendFunc() (in module kivy.graphics.opengl),
+
+glBlendFuncSeparate() (in module kivy.graphics.opengl)
+glBufferData() (in module kivy.graphics.opengl),
+
+glBufferSubData() (in module kivy.graphics.opengl)
+glCheckFramebufferStatus() (in module kivy.graphics.opengl)
+glClear() (in module kivy.graphics.opengl),
+
+glClearColor() (in module kivy.graphics.opengl),
+
+glClearStencil() (in module kivy.graphics.opengl),
+
+glColorMask() (in module kivy.graphics.opengl),
+
+
+glCompileShader() (in module kivy.graphics.opengl)
+glCompressedTexImageD() (in module kivy.graphics.opengl)
+glCompressedTexSubImageD() (in module kivy.graphics.opengl)
+glCopyTexImageD() (in module kivy.graphics.opengl)
+glCopyTexSubImageD() (in module kivy.graphics.opengl)
+glCreateProgram() (in module kivy.graphics.opengl)
+glCreateShader() (in module kivy.graphics.opengl)
+glCullFace() (in module kivy.graphics.opengl),
+
+glDeleteBuffers() (in module kivy.graphics.opengl)
+glDeleteFramebuffers() (in module kivy.graphics.opengl)
+glDeleteProgram() (in module kivy.graphics.opengl)
+glDeleteRenderbuffers() (in module kivy.graphics.opengl)
+glDeleteShader() (in module kivy.graphics.opengl)
+glDeleteTextures() (in module kivy.graphics.opengl)
+glDepthFunc() (in module kivy.graphics.opengl),
+
+glDepthMask() (in module kivy.graphics.opengl),
+
+glDetachShader() (in module kivy.graphics.opengl)
+glDisable() (in module kivy.graphics.opengl),
+
+glDisableVertexAttribArray() (in module kivy.graphics.opengl)
+glDrawArrays() (in module kivy.graphics.opengl),
+
+glDrawElements() (in module kivy.graphics.opengl)
+glEnable() (in module kivy.graphics.opengl),
+
+glEnableVertexAttribArray() (in module kivy.graphics.opengl)
+glFinish() (in module kivy.graphics.opengl),
+
+glFlush() (in module kivy.graphics.opengl),
+
+glFramebufferRenderbuffer() (in module kivy.graphics.opengl)
+glFramebufferTextureD() (in module kivy.graphics.opengl)
+glFrontFace() (in module kivy.graphics.opengl),
+
+glGenBuffers() (in module kivy.graphics.opengl),
+
+glGenerateMipmap() (in module kivy.graphics.opengl)
+glGenFramebuffers() (in module kivy.graphics.opengl)
+glGenRenderbuffers() (in module kivy.graphics.opengl)
+glGenTextures() (in module kivy.graphics.opengl),
+
+glGetActiveAttrib() (in module kivy.graphics.opengl)
+glGetActiveUniform() (in module kivy.graphics.opengl)
+glGetAttachedShaders() (in module kivy.graphics.opengl)
+glGetAttribLocation() (in module kivy.graphics.opengl)
+glGetBooleanv() (in module kivy.graphics.opengl)
+glGetBufferParameteriv() (in module kivy.graphics.opengl)
+glGetError() (in module kivy.graphics.opengl),
+
+glGetFloatv() (in module kivy.graphics.opengl),
+
+glGetFramebufferAttachmentParameteriv() (in
+module kivy.graphics.opengl)
+glGetIntegerv() (in module kivy.graphics.opengl),
+
+glGetProgramInfoLog() (in module kivy.graphics.opengl)
+glGetProgramiv() (in module kivy.graphics.opengl)
+glGetRenderbufferParameteriv() (in module kivy.graphics.opengl)
+glGetShaderInfoLog() (in module kivy.graphics.opengl)
+glGetShaderiv() (in module kivy.graphics.opengl),
+
+glGetShaderPrecisionFormat() (in module kivy.graphics.opengl)
+glGetShaderSource() (in module kivy.graphics.opengl)
+glGetString() (in module kivy.graphics.opengl),
+
+glGetTexParameterfv() (in module kivy.graphics.opengl)
+glGetTexParameteriv() (in module kivy.graphics.opengl)
+glGetUniformfv() (in module kivy.graphics.opengl)
+glGetUniformiv() (in module kivy.graphics.opengl)
+
+glGetUniformLocation() (in module kivy.graphics.opengl)
+glGetVertexAttribfv() (in module kivy.graphics.opengl)
+glGetVertexAttribiv() (in module kivy.graphics.opengl)
+glGetVertexAttribPointerv() (in module kivy.graphics.opengl)
+glHint() (in module kivy.graphics.opengl),
+
+glIsBuffer() (in module kivy.graphics.opengl),
+
+glIsEnabled() (in module kivy.graphics.opengl),
+
+glIsFramebuffer() (in module kivy.graphics.opengl)
+glIsProgram() (in module kivy.graphics.opengl),
+
+glIsRenderbuffer() (in module kivy.graphics.opengl)
+glIsShader() (in module kivy.graphics.opengl),
+
+glIsTexture() (in module kivy.graphics.opengl),
+
+glLineWidth() (in module kivy.graphics.opengl),
+
+glLinkProgram() (in module kivy.graphics.opengl)
+glPixelStorei() (in module kivy.graphics.opengl),
+
+glPolygonOffset() (in module kivy.graphics.opengl)
+glReadPixels() (in module kivy.graphics.opengl),
+
+glReleaseShaderCompiler() (in module kivy.graphics.opengl)
+glRenderbufferStorage() (in module kivy.graphics.opengl)
+glSampleCoverage() (in module kivy.graphics.opengl)
+glScissor() (in module kivy.graphics.opengl),
+
+glShaderBinary() (in module kivy.graphics.opengl)
+glShaderSource() (in module kivy.graphics.opengl)
+glsl (kivy.uix.effectwidget.EffectBase attribute),
+
+glStencilFunc() (in module kivy.graphics.opengl),
+
+glStencilFuncSeparate() (in module kivy.graphics.opengl)
+glStencilMask() (in module kivy.graphics.opengl),
+
+glStencilMaskSeparate() (in module kivy.graphics.opengl)
+glStencilOp() (in module kivy.graphics.opengl),
+
+glStencilOpSeparate() (in module kivy.graphics.opengl)
+glTexImageD() (in module kivy.graphics.opengl),
+
+glTexParameterf() (in module kivy.graphics.opengl)
+glTexParameterfv() (in module kivy.graphics.opengl)
+glTexParameteri() (in module kivy.graphics.opengl)
+glTexParameteriv() (in module kivy.graphics.opengl)
+glTexSubImageD() (in module kivy.graphics.opengl)
+glUniformf() (in module kivy.graphics.opengl),
+
+glUniformfv() (in module kivy.graphics.opengl),
+
+glUniformi() (in module kivy.graphics.opengl),
+
+glUniformiv() (in module kivy.graphics.opengl),
+
+glUniformf() (in module kivy.graphics.opengl),
+
+glUniformfv() (in module kivy.graphics.opengl),
+
+glUniformi() (in module kivy.graphics.opengl),
+
+glUniformiv() (in module kivy.graphics.opengl),
+
+glUniformf() (in module kivy.graphics.opengl),
+
+glUniformfv() (in module kivy.graphics.opengl),
+
+glUniformi() (in module kivy.graphics.opengl),
+
+glUniformiv() (in module kivy.graphics.opengl),
+
+glUniformf() (in module kivy.graphics.opengl),
+
+glUniformfv() (in module kivy.graphics.opengl),
+
+glUniformi() (in module kivy.graphics.opengl),
+
+glUniformiv() (in module kivy.graphics.opengl),
+
+glUniformMatrixfv() (in module kivy.graphics.opengl)
+glUniformMatrixfv() (in module kivy.graphics.opengl)
+glUniformMatrixfv() (in module kivy.graphics.opengl)
+
+glUseProgram() (in module kivy.graphics.opengl),
+
+glValidateProgram() (in module kivy.graphics.opengl)
+glVertexAttribf() (in module kivy.graphics.opengl)
+glVertexAttribfv() (in module kivy.graphics.opengl)
+glVertexAttribf() (in module kivy.graphics.opengl)
+glVertexAttribfv() (in module kivy.graphics.opengl)
+glVertexAttribf() (in module kivy.graphics.opengl)
+glVertexAttribfv() (in module kivy.graphics.opengl)
+glVertexAttribf() (in module kivy.graphics.opengl)
+glVertexAttribfv() (in module kivy.graphics.opengl)
+glVertexAttribPointer() (in module kivy.graphics.opengl)
+glViewport() (in module kivy.graphics.opengl),
+
+goto() (kivy.uix.rst.RstDocument method),
+
+goto_node() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+grab() (kivy.input.MotionEvent method)
+grab() (kivy.input.motionevent.MotionEvent method)
+grab_current (kivy.input.motionevent.MotionEvent attribute))
+GraphicException (class in kivy.graphics)
+GraphicException ( kivy.graphics.vertex_instructions)
+GridLayout (class in kivy.uix.gridlayout)
+GridLayoutException ( kivy.uix.gridlayout)
+group (kivy.uix.behaviors.ToggleButtonBehavior attribute))
+
+h (kivy.graphics.Color attribute)
+h (kivy.graphics.context_instructions.Color attribute),
+
+halign (kivy.uix.label.Label attribute)
+handle_exception() (kivy.base.ExceptionHandler method)
+handle_exception() (kivy.base.ExceptionManagerBase method)
+handle_image_left (kivy.uix.textinput.TextInput attribute))
+handle_image_middle (kivy.uix.textinput.TextInput attribute),
+
+handle_image_right (kivy.uix.textinput.TextInput attribute))
+handles() (kivy.uix.gesturesurface.GestureContainer method)
+has_after (kivy.graphics.Canvas attribute)
+has_after (kivy.graphics.instructions.Canvas attribute),
+
+has_before (kivy.graphics.Canvas attribute)
+has_before (kivy.graphics.instructions.Canvas attribute),
+
+has_screen() (kivy.uix.screenmanager.ScreenManager method)
+have_properties_to_animate() (kivy.animation.Animation method),
+
+hbar (kivy.uix.scrollview.ScrollView attribute),
+
+height (kivy.core.image.Image attribute)
+height (kivy.core.image.ImageData attribute),
+
+height (kivy.core.window.WindowBase attribute),
+
+height (kivy.graphics.texture.Texture attribute),
+
+height (kivy.input.shape.ShapeRect attribute),
+
+height (kivy.uix.widget.Widget attribute),
+
+hex_color (kivy.uix.colorpicker.ColorPicker attribute),
+
+hide() (kivy.core.window.WindowBase method),
+
+hide_keyboard() (kivy.uix.textinput.TextInput method)
+hide_root (kivy.uix.treeview.TreeView attribute),
+
+hint_text (kivy.uix.textinput.TextInput attribute),
+
+hint_text_color (kivy.uix.textinput.TextInput attribute),
+
+HorizontalBlurEffect ( kivy.uix.effectwidget)
+hsv (kivy.graphics.Color attribute)
+hsv (kivy.graphics.context_instructions.Color attribute),
+
+hsv (kivy.uix.colorpicker.ColorPicker attribute),
+
+
+icon (kivy.app.App attribute)
+icon (kivy.uix.actionbar.ActionButton attribute),
+
+icon (kivy.uix.actionbar.ActionToggleButton attribute),
+
+id (kivy.graphics.texture.Texture attribute),
+
+
+id (kivy.input.motionevent.MotionEvent attribute),
+
+id (kivy.uix.widget.Widget attribute)
+identity() (kivy.graphics.transformation.Matrix method)
+idle() (kivy.base.EventLoopBase method)
+ids (kivy.uix.widget.Widget attribute)
+Image (class in kivy.core.image)
+Image (class in kivy.uix.image)
+image (kivy.core.image.Image attribute)
+image() (kivy.loader.LoaderBase method)
+image_loading (kivy.uix.videoplayer.VideoPlayer attribute))
+image_overlay_play (kivy.uix.videoplayer.VideoPlayer attribute))
+image_pause (kivy.uix.videoplayer.VideoPlayer attribute))
+image_play (kivy.uix.videoplayer.VideoPlayer attribute),
+
+image_ratio (kivy.uix.image.Image attribute),
+
+image_stop (kivy.uix.videoplayer.VideoPlayer attribute),
+
+image_volumehigh (kivy.uix.videoplayer.VideoPlayer attribute))
+image_volumelow (kivy.uix.videoplayer.VideoPlayer attribute))
+image_volumemedium (kivy.uix.videoplayer.VideoPlayer attribute),
+
+image_volumemuted (kivy.uix.videoplayer.VideoPlayer attribute),
+
+ImageData (class in kivy.core.image)
+import_gesture() (kivy.multistroke.Recognizer method)
+important (kivy.uix.actionbar.ActionItem attribute),
+
+in_back() (kivy.animation.AnimationTransition static method)
+in_bbox() (kivy.vector.Vector static method),
+
+in_bounce() (kivy.animation.AnimationTransition static method)
+in_circ() (kivy.animation.AnimationTransition static method)
+in_cubic() (kivy.animation.AnimationTransition static method)
+in_elastic() (kivy.animation.AnimationTransition static method)
+in_expo() (kivy.animation.AnimationTransition static method)
+in_out_back() (kivy.animation.AnimationTransition static method)
+in_out_bounce() (kivy.animation.AnimationTransition static method)
+in_out_circ() (kivy.animation.AnimationTransition static method)
+in_out_cubic() (kivy.animation.AnimationTransition static method)
+in_out_elastic() (kivy.animation.AnimationTransition static method)
+in_out_expo() (kivy.animation.AnimationTransition static method)
+in_out_quad() (kivy.animation.AnimationTransition static method)
+in_out_quart() (kivy.animation.AnimationTransition static method)
+in_out_quint() (kivy.animation.AnimationTransition static method)
+in_out_sine() (kivy.animation.AnimationTransition static method)
+in_quad() (kivy.animation.AnimationTransition static method)
+in_quart() (kivy.animation.AnimationTransition static method)
+in_quint() (kivy.animation.AnimationTransition static method)
+in_sine() (kivy.animation.AnimationTransition static method)
+inch() (in module kivy.metrics)
+indent_level (kivy.uix.treeview.TreeView attribute),
+
+indent_start (kivy.uix.treeview.TreeView attribute),
+
+index (kivy.core.camera.CameraBase attribute),
+
+index (kivy.uix.camera.Camera attribute)
+index (kivy.uix.carousel.Carousel attribute),
+
+index (kivy.uix.filechooser.FileChooserProgressBase attribute))
+index (kivy.uix.listview.SelectableView attribute),
+
+indices (kivy.graphics.Mesh attribute)
+indices (kivy.graphics.vertex_instructions.Mesh attribute))
+init_camera() (kivy.core.camera.CameraBase method)
+init_gesture() (kivy.uix.gesturesurface.GestureSurface method)
+input_filter (kivy.uix.textinput.TextInput attribute),
+
+input_type (kivy.uix.textinput.TextInput attribute),
+
+InputPostprocCalibration ( kivy.input.postproc.calibration),
+
+InputPostprocDejitter ( kivy.input.postproc.dejitter),
+
+
+InputPostprocDoubleTap ( kivy.input.postproc.doubletap),
+
+InputPostprocIgnoreList ( kivy.input.postproc.ignorelist),
+
+InputPostprocRetainTouch ( kivy.input.postproc.retaintouch),
+
+InputPostprocTripleTap ( kivy.input.postproc.tripletap),
+
+insert() (kivy.graphics.InstructionGroup method),
+
+insert() (kivy.graphics.instructions.InstructionGroup method)
+insert_text() (kivy.uix.textinput.TextInput method)
+inside_group (kivy.uix.actionbar.ActionItem attribute),
+
+install_android() (in module kivy.support),
+
+install_gobject_iteration() (in module kivy.support)
+install_twisted_reactor() (in module kivy.support),
+
+Instruction (class in kivy.graphics)
+Instruction (class in kivy.graphics.instructions),
+
+InstructionGroup (class in kivy.graphics)
+InstructionGroup ( kivy.graphics.instructions)
+InteractiveLauncher (class in kivy.interactive),
+
+interface (kivy.uix.settings.Settings attribute),
+
+interface_cls (kivy.uix.settings.Settings attribute),
+
+InterfaceWithSidebar (class in kivy.uix.settings),
+
+interpolate() (in module kivy.utils)
+intersection() (in module kivy.utils)
+inverse() (kivy.graphics.transformation.Matrix method)
+InvertEffect (class in kivy.uix.effectwidget),
+
+is_active (kivy.uix.screenmanager.TransitionBase attribute))
+is_color_transparent() (in module kivy.utils),
+
+is_dead() (kivy.weakmethod.WeakMethod method)
+is_dir() (kivy.uix.filechooser.FileSystemAbstract method)
+is_double_tap (kivy.input.motionevent.MotionEvent attribute))
+is_event_type() (kivy.event.EventDispatcher method)
+is_finished (kivy.network.urlrequest.UrlRequest attribute))
+is_focusable (kivy.uix.behaviors.FocusBehavior attribute))
+is_hidden() (kivy.uix.filechooser.FileSystemAbstract method)
+is_leaf (kivy.uix.treeview.TreeViewNode attribute),
+
+is_loaded (kivy.uix.treeview.TreeViewNode attribute),
+
+is_manual (kivy.effects.kinetic.KineticEffect attribute),
+
+is_mouse_scrolling (kivy.input.MotionEvent attribute),
+
+is_mouse_scrolling (kivy.input.motionevent.MotionEvent attribute))
+is_open (kivy.uix.spinner.Spinner attribute),
+
+is_open (kivy.uix.treeview.TreeViewNode attribute),
+
+is_selected (kivy.adapters.models.SelectableDataItem attribute))
+is_selected (kivy.uix.listview.SelectableView attribute))
+is_selected (kivy.uix.treeview.TreeViewNode attribute),
+
+is_touch (kivy.input.motionevent.MotionEvent attribute),
+
+is_triple_tap (kivy.input.motionevent.MotionEvent attribute))
+italic (kivy.uix.label.Label attribute)
+item_strings (kivy.uix.listview.ListView attribute),
+
+iterate_all_nodes() (kivy.uix.treeview.TreeView method)
+iterate_mipmaps() (kivy.core.image.ImageData method)
+iterate_open_nodes() (kivy.uix.treeview.TreeView method)
+
+joint (kivy.graphics.Line attribute)
+joint (kivy.graphics.vertex_instructions.Line attribute))
+joint_precision (kivy.graphics.Line attribute)
+joint_precision (kivy.graphics.vertex_instructions.Line attribute))
+JsonStore (class in kivy.storage.jsonstore)
+
+keep_data (kivy.uix.image.Image attribute),
+
+
+keep_ratio (kivy.uix.image.Image attribute),
+
+keep_within_parent (kivy.uix.splitter.Splitter attribute),
+
+key (kivy.uix.settings.SettingItem attribute),
+
+key_background_color (kivy.uix.vkeyboard.VKeyboard attribute),
+
+key_background_down (kivy.uix.vkeyboard.VKeyboard attribute),
+
+key_background_normal (kivy.uix.vkeyboard.VKeyboard attribute),
+
+key_border (kivy.uix.vkeyboard.VKeyboard attribute),
+
+key_disabled_background_normal (kivy.uix.vkeyboard.VKeyboard attribute),
+
+key_margin (kivy.uix.vkeyboard.VKeyboard attribute),
+
+Keyboard (class in kivy.core.window)
+keyboard (kivy.uix.behaviors.FocusBehavior attribute),
+
+keyboard_height (kivy.core.window.WindowBase attribute))
+keyboard_mode (kivy.uix.textinput.TextInput attribute),
+
+keyboard_on_key_down() (kivy.uix.behaviors.FocusBehavior method)
+keyboard_on_key_up() (kivy.uix.behaviors.FocusBehavior method)
+keyboard_select (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+keyboard_suggestions (kivy.uix.textinput.TextInput attribute),
+
+keycode_to_string() (kivy.core.window.Keyboard method)
+keys() (kivy.storage.AbstractStore method)
+KineticEffect (class in kivy.effects.kinetic)
+kivy (module)
+kivy.adapters (module)
+kivy.adapters.adapter (module)
+kivy.adapters.args_converters (module)
+kivy.adapters.dictadapter (module)
+kivy.adapters.listadapter (module)
+kivy.adapters.models (module)
+kivy.adapters.simplelistadapter (module)
+kivy.animation (module)
+kivy.app (module)
+kivy.atlas (module)
+kivy.base (module)
+kivy.cache (module)
+kivy.clock (module)
+kivy.compat (module)
+kivy.config (module)
+kivy.context (module)
+kivy.core (module)
+kivy.core.audio (module)
+kivy.core.camera (module)
+kivy.core.clipboard (module)
+kivy.core.gl (module)
+kivy.core.image (module)
+kivy.core.spelling (module)
+kivy.core.text (module)
+kivy.core.text.markup (module)
+kivy.core.text.text_layout (module)
+kivy.core.video (module)
+kivy.core.window (module)
+kivy.effects (module)
+kivy.effects.dampedscroll (module)
+kivy.effects.kinetic (module)
+kivy.effects.opacityscroll (module)
+kivy.effects.scroll (module)
+kivy.event (module)
+kivy.ext (module)
+kivy.factory (module)
+kivy.garden (module)
+kivy.geometry (module)
+kivy.gesture (module)
+kivy.graphics (module)
+kivy.graphics.compiler (module)
+kivy.graphics.context (module)
+kivy.graphics.context_instructions (module),
+
+kivy.graphics.fbo (module)
+kivy.graphics.gl_instructions (module)
+kivy.graphics.instructions (module)
+kivy.graphics.opengl (module)
+kivy.graphics.opengl_utils (module)
+kivy.graphics.shader (module)
+kivy.graphics.stencil_instructions (module),
+
+kivy.graphics.svg (module)
+kivy.graphics.tesselator (module)
+kivy.graphics.texture (module)
+kivy.graphics.transformation (module)
+kivy.graphics.vertex_instructions (module)
+kivy.input (module)
+kivy.input.factory (module)
+kivy.input.motionevent (module)
+kivy.input.postproc (module)
+kivy.input.postproc.calibration (module),
+
+kivy.input.postproc.dejitter (module)
+kivy.input.postproc.doubletap (module),
+
+
+kivy.input.postproc.ignorelist (module),
+
+kivy.input.postproc.retaintouch (module),
+
+kivy.input.postproc.tripletap (module),
+
+kivy.input.provider (module)
+kivy.input.providers (module)
+kivy.input.providers.androidjoystick (module),
+
+kivy.input.providers.hidinput (module),
+
+kivy.input.providers.leapfinger (module),
+
+kivy.input.providers.linuxwacom (module),
+
+kivy.input.providers.mactouch (module),
+
+kivy.input.providers.mouse (module),
+
+kivy.input.providers.mtdev (module),
+
+kivy.input.providers.probesysfs (module),
+
+kivy.input.providers.tuio (module)
+kivy.input.providers.wm_common (module),
+
+kivy.input.providers.wm_pen (module),
+
+kivy.input.providers.wm_touch (module),
+
+kivy.input.recorder (module)
+kivy.input.shape (module)
+kivy.interactive (module)
+kivy.lang (module)
+kivy.lib (module)
+kivy.lib.gstplayer (module)
+kivy.loader (module)
+kivy.logger (module)
+kivy.metrics (module)
+kivy.modules (module)
+kivy.modules.inspector (module)
+kivy.modules.keybinding (module)
+kivy.modules.monitor (module)
+kivy.modules.recorder (module)
+kivy.modules.screen (module)
+kivy.modules.touchring (module)
+kivy.modules.webdebugger (module)
+kivy.multistroke (module)
+kivy.network (module)
+kivy.network.urlrequest (module)
+kivy.parser (module)
+kivy.properties (module)
+kivy.resources (module)
+kivy.storage (module)
+kivy.storage.dictstore (module)
+kivy.storage.jsonstore (module)
+kivy.storage.redisstore (module)
+kivy.support (module)
+kivy.uix (module)
+kivy.uix.abstractview (module)
+kivy.uix.accordion (module)
+kivy.uix.actionbar (module)
+kivy.uix.anchorlayout (module)
+kivy.uix.behaviors (module)
+kivy.uix.boxlayout (module)
+kivy.uix.bubble (module)
+kivy.uix.button (module)
+kivy.uix.camera (module)
+kivy.uix.carousel (module)
+kivy.uix.checkbox (module)
+kivy.uix.codeinput (module)
+kivy.uix.colorpicker (module)
+kivy.uix.dropdown (module)
+kivy.uix.effectwidget (module)
+kivy.uix.filechooser (module)
+kivy.uix.floatlayout (module)
+kivy.uix.gesturesurface (module)
+kivy.uix.gridlayout (module)
+kivy.uix.image (module)
+kivy.uix.label (module)
+kivy.uix.layout (module)
+kivy.uix.listview (module)
+kivy.uix.modalview (module)
+kivy.uix.pagelayout (module)
+kivy.uix.popup (module)
+kivy.uix.progressbar (module)
+kivy.uix.relativelayout (module)
+kivy.uix.rst (module)
+kivy.uix.sandbox (module)
+kivy.uix.scatter (module)
+kivy.uix.scatterlayout (module)
+kivy.uix.screenmanager (module)
+kivy.uix.scrollview (module)
+kivy.uix.settings (module)
+kivy.uix.slider (module)
+kivy.uix.spinner (module)
+kivy.uix.splitter (module)
+kivy.uix.stacklayout (module)
+kivy.uix.stencilview (module)
+kivy.uix.switch (module)
+kivy.uix.tabbedpanel (module)
+kivy.uix.textinput (module)
+kivy.uix.togglebutton (module)
+kivy.uix.treeview (module)
+kivy.uix.video (module)
+kivy.uix.videoplayer (module)
+kivy.uix.vkeyboard (module)
+kivy.uix.widget (module)
+
+kivy.utils (module)
+kivy.vector (module)
+kivy.weakmethod (module)
+kivy_base_dir (in module kivy)
+kivy_config_fn (in module kivy)
+kivy_configure() (in module kivy)
+kivy_data_dir (in module kivy)
+kivy_home_dir (in module kivy)
+kivy_icons_dir (in module kivy)
+kivy_modules_dir (in module kivy)
+kivy_options (in module kivy)
+kivy_register_post_configuration() (in module kivy)
+kivy_shader_dir (in module kivy)
+kivy_userexts_dir (in module kivy)
+kivy_usermodules_dir (in module kivy)
+kv_directory (kivy.app.App attribute)
+kv_file (kivy.app.App attribute)
+
+Label (class in kivy.uix.label)
+label (kivy.core.text.LabelBase attribute)
+LabelBase (class in kivy.core.text)
+last_touch (kivy.uix.behaviors.ButtonBehavior attribute),
+
+Layout (class in kivy.uix.layout)
+layout (kivy.uix.filechooser.FileChooserController attribute))
+layout (kivy.uix.vkeyboard.VKeyboard attribute),
+
+layout_path (kivy.uix.vkeyboard.VKeyboard attribute),
+
+layout_text() (in module kivy.core.text.text_layout),
+
+LayoutLine (class in kivy.core.text.text_layout),
+
+LayoutWord (class in kivy.core.text.text_layout),
+
+length (kivy.core.audio.Sound attribute)
+length() (kivy.vector.Vector method)
+length() (kivy.vector.Vector method)
+level (kivy.uix.treeview.TreeViewNode attribute),
+
+lexer (kivy.uix.codeinput.CodeInput attribute),
+
+limit_to (kivy.uix.bubble.Bubble attribute),
+
+Line (class in kivy.graphics)
+Line (class in kivy.graphics.vertex_instructions),
+
+line_height (kivy.uix.label.Label attribute),
+
+line_height (kivy.uix.textinput.TextInput attribute),
+
+line_intersection() (kivy.vector.Vector static method)
+line_spacing (kivy.uix.textinput.TextInput attribute),
+
+linear() (kivy.animation.AnimationTransition static method)
+link() (kivy.properties.Property method)
+list() (kivy.input.factory.MotionEventFactory static method)
+list() (kivy.input.MotionEventFactory static method)
+list_languages() (kivy.core.spelling.SpellingBase method)
+ListAdapter (class in kivy.adapters.listadapter),
+
+listdir() (kivy.uix.filechooser.FileSystemAbstract method)
+ListItemButton (class in kivy.uix.listview)
+ListItemLabel (class in kivy.uix.listview)
+ListProperty (class in kivy.properties)
+ListView (class in kivy.uix.listview)
+load() (in module kivy.ext)
+load() (kivy.core.audio.Sound method)
+load() (kivy.core.audio.SoundLoader static method)
+load() (kivy.core.image.Image static method),
+
+load() (kivy.core.video.VideoBase method),
+
+load_config() (kivy.app.App method)
+load_file() (kivy.lang.BuilderBase method),
+
+load_func (kivy.uix.treeview.TreeView attribute),
+
+load_kv() (kivy.app.App method)
+load_next() (kivy.uix.carousel.Carousel method),
+
+load_previous() (kivy.uix.carousel.Carousel method)
+load_slide() (kivy.uix.carousel.Carousel method),
+
+load_string() (kivy.lang.BuilderBase method),
+
+loaded (kivy.uix.video.Video attribute)
+LoaderBase (class in kivy.loader)
+LoadIdentity (class in kivy.graphics)
+loading_image (kivy.loader.LoaderBase attribute),
+
+Logger (in module kivy.logger)
+LoggerHistory (class in kivy.logger)
+look_at() (kivy.graphics.transformation.Matrix method)
+loop (kivy.core.audio.Sound attribute)
+loop (kivy.uix.carousel.Carousel attribute),
+
+
+
+mag_filter (kivy.graphics.texture.Texture attribute),
+
+mainthread() (in module kivy.clock)
+manager (kivy.uix.filechooser.FileChooser attribute),
+
+manager (kivy.uix.screenmanager.Screen attribute),
+
+manager (kivy.uix.screenmanager.TransitionBase attribute))
+margin_hint (kivy.uix.vkeyboard.VKeyboard attribute),
+
+markup (kivy.core.text.markup.MarkupLabel attribute),
+
+markup (kivy.uix.label.Label attribute)
+MarkupLabel (class in kivy.core.text.markup),
+
+match() (kivy.lang.BuilderBase method)
+match_candidate() (kivy.multistroke.MultistrokeGesture method)
+Matrix (class in kivy.graphics.transformation),
+
+matrix (kivy.graphics.context_instructions.MatrixInstruction attribute))
+matrix (kivy.graphics.MatrixInstruction attribute),
+
+MatrixInstruction (class in kivy.graphics)
+MatrixInstruction ( kivy.graphics.context_instructions),
+
+max (kivy.effects.scroll.ScrollEffect attribute),
+
+max (kivy.uix.progressbar.ProgressBar attribute),
+
+max (kivy.uix.slider.Slider attribute)
+max_height (kivy.uix.dropdown.DropDown attribute),
+
+max_history (kivy.effects.kinetic.KineticEffect attribute),
+
+max_iteration (kivy.clock.ClockBase attribute),
+
+max_lines (kivy.uix.label.Label attribute)
+max_size (kivy.uix.splitter.Splitter attribute),
+
+max_upload_per_frame (kivy.loader.LoaderBase attribute))
+maximize() (kivy.core.window.WindowBase method)
+menu (kivy.uix.settings.InterfaceWithSidebar attribute),
+
+merge_gestures() (kivy.uix.gesturesurface.GestureSurface method)
+Mesh (class in kivy.graphics)
+Mesh (class in kivy.graphics.vertex_instructions),
+
+meshes (kivy.graphics.tesselator.Tesselator attribute),
+
+Metrics (in module kivy.metrics)
+metrics (in module kivy.metrics)
+MetricsBase (class in kivy.metrics)
+min (kivy.effects.scroll.ScrollEffect attribute),
+
+min (kivy.uix.slider.Slider attribute)
+min_distance (kivy.effects.kinetic.KineticEffect attribute),
+
+min_filter (kivy.graphics.texture.Texture attribute),
+
+min_move (kivy.uix.carousel.Carousel attribute),
+
+min_overscroll (kivy.effects.dampedscroll.DampedScrollEffect attribute))
+min_size (kivy.uix.splitter.Splitter attribute),
+
+min_space (kivy.uix.accordion.Accordion attribute),
+
+min_space (kivy.uix.accordion.AccordionItem attribute),
+
+MIN_STATE_TIME (kivy.uix.behaviors.ButtonBehavior attribute))
+min_velocity (kivy.effects.kinetic.KineticEffect attribute),
+
+minimize() (kivy.core.window.WindowBase method)
+minimum_bounding_circle() (in module kivy.geometry)
+minimum_height (kivy.uix.gridlayout.GridLayout attribute))
+minimum_height (kivy.uix.stacklayout.StackLayout attribute))
+minimum_height (kivy.uix.textinput.TextInput attribute),
+
+minimum_height (kivy.uix.treeview.TreeView attribute),
+
+minimum_size (kivy.uix.gridlayout.GridLayout attribute))
+minimum_size (kivy.uix.stacklayout.StackLayout attribute))
+minimum_size (kivy.uix.treeview.TreeView attribute),
+
+minimum_width (kivy.uix.actionbar.ActionItem attribute))
+minimum_width (kivy.uix.gridlayout.GridLayout attribute))
+minimum_width (kivy.uix.stacklayout.StackLayout attribute))
+minimum_width (kivy.uix.treeview.TreeView attribute),
+
+mipmap (kivy.graphics.texture.Texture attribute),
+
+mipmap (kivy.uix.actionbar.ActionItem attribute),
+
+
+mipmap (kivy.uix.image.Image attribute)
+mipmap (kivy.uix.label.Label attribute)
+mipmaps (kivy.core.image.ImageData attribute),
+
+mm() (in module kivy.metrics)
+ModalView (class in kivy.uix.modalview)
+mode (kivy.graphics.Mesh attribute)
+mode (kivy.graphics.vertex_instructions.Mesh attribute),
+
+mode (kivy.uix.actionbar.ActionGroup attribute),
+
+modifiers (kivy.core.window.WindowBase attribute),
+
+MonochromeEffect (class in kivy.uix.effectwidget),
+
+MotionEvent (class in kivy.input)
+MotionEvent (class in kivy.input.motionevent),
+
+MotionEventFactory (class in kivy.input)
+MotionEventFactory (class in kivy.input.factory),
+
+MotionEventProvider (class in kivy.input)
+MotionEventProvider ( kivy.input.provider)
+mouse_pos (kivy.core.window.WindowBase attribute),
+
+move() (kivy.input.MotionEvent method)
+move() (kivy.input.motionevent.MotionEvent method)
+multiline (kivy.uix.textinput.TextInput attribute),
+
+multiply() (kivy.graphics.transformation.Matrix method)
+multiselect (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+multiselect (kivy.uix.filechooser.FileChooserController attribute))
+MultistrokeGesture (class in kivy.multistroke),
+
+
+name (kivy.app.App attribute)
+name (kivy.config.ConfigParser attribute)
+name (kivy.uix.screenmanager.Screen attribute),
+
+next() (kivy.uix.screenmanager.ScreenManager method)
+next_slide (kivy.uix.carousel.Carousel attribute),
+
+no_selection (kivy.uix.treeview.TreeViewNode attribute),
+
+nocache (kivy.core.image.Image attribute),
+
+nocache (kivy.uix.image.Image attribute)
+nodes (kivy.uix.treeview.TreeViewNode attribute),
+
+NoLanguageSelectedError ( kivy.core.spelling)
+norm_image_size (kivy.uix.image.Image attribute),
+
+normal_matrix() (kivy.graphics.transformation.Matrix method)
+normalize() (kivy.gesture.Gesture method),
+
+normalize() (kivy.vector.Vector method)
+normalize_stroke() (kivy.gesture.GestureStroke method)
+NoSuchLangError (class in kivy.core.spelling),
+
+NoTransition (class in kivy.uix.screenmanager),
+
+num_workers (kivy.loader.LoaderBase attribute),
+
+NumericProperty (class in kivy.properties),
+
+
+ObjectProperty (class in kivy.properties)
+ObjectWithUid (class in kivy.event)
+Observable (class in kivy.event)
+Observable (class in kivy.lang)
+odd (kivy.uix.treeview.TreeViewNode attribute),
+
+odd_color (kivy.uix.treeview.TreeViewNode attribute))
+on_bring_to_front() (kivy.uix.scatter.Scatter method)
+on_close() (kivy.core.window.WindowBase method)
+on_config_change() (kivy.app.App method),
+
+on_context_created() (kivy.uix.sandbox.Sandbox method)
+on_current_uid() (kivy.uix.settings.ContentPanel method)
+on_double_tap() (kivy.uix.textinput.TextInput method)
+on_dropfile() (kivy.core.window.WindowBase method)
+on_exception() (kivy.uix.sandbox.Sandbox method)
+on_flip() (kivy.core.window.WindowBase method)
+on_joy_axis() (kivy.core.window.WindowBase method)
+on_joy_ball() (kivy.core.window.WindowBase method)
+on_joy_button_down() (kivy.core.window.WindowBase method)
+
+on_joy_button_up() (kivy.core.window.WindowBase method)
+on_joy_hat() (kivy.core.window.WindowBase method)
+on_key_down() (kivy.core.window.WindowBase method)
+on_key_up() (kivy.core.window.WindowBase method)
+on_keyboard() (kivy.core.window.WindowBase method)
+on_motion() (kivy.core.window.WindowBase method)
+on_mouse_down() (kivy.core.window.WindowBase method)
+on_mouse_move() (kivy.core.window.WindowBase method)
+on_mouse_up() (kivy.core.window.WindowBase method)
+on_pause() (kivy.app.App method)
+on_pause() (kivy.base.EventLoopBase method),
+
+on_quad_touch() (kivy.uix.textinput.TextInput method)
+on_request_close() (kivy.core.window.WindowBase method)
+on_resize() (kivy.core.window.WindowBase method)
+on_resume() (kivy.app.App method)
+on_rotate() (kivy.core.window.WindowBase method)
+on_selection_change() (kivy.adapters.listadapter.ListAdapter method)
+on_start() (kivy.app.App method)
+on_start() (kivy.base.EventLoopBase method),
+
+on_stop() (kivy.app.App method)
+on_stop() (kivy.base.EventLoopBase method),
+
+on_texture() (kivy.core.image.Image method),
+
+on_touch_down() (kivy.core.window.WindowBase method)
+on_touch_down() (kivy.uix.gesturesurface.GestureSurface method)
+on_touch_down() (kivy.uix.widget.Widget method)
+on_touch_move() (kivy.core.window.WindowBase method)
+on_touch_move() (kivy.uix.gesturesurface.GestureSurface method)
+on_touch_move() (kivy.uix.widget.Widget method)
+on_touch_up() (kivy.core.window.WindowBase method)
+on_touch_up() (kivy.uix.widget.Widget method),
+
+on_transform_with_touch() (kivy.uix.scatter.Scatter method),
+
+on_triple_tap() (kivy.uix.textinput.TextInput method)
+opacity (kivy.graphics.Canvas attribute)
+opacity (kivy.graphics.instructions.Canvas attribute),
+
+opacity (kivy.uix.widget.Widget attribute),
+
+OpacityScrollEffect ( kivy.effects.opacityscroll)
+open() (kivy.uix.dropdown.DropDown method),
+
+open() (kivy.uix.modalview.ModalView method),
+
+open_settings() (kivy.app.App method)
+opos (kivy.input.MotionEvent attribute)
+opos (kivy.input.motionevent.MotionEvent attribute),
+
+option_cls (kivy.uix.spinner.Spinner attribute),
+
+OptionProperty (class in kivy.properties)
+options (kivy.app.App attribute)
+options (kivy.properties.OptionProperty attribute),
+
+options (kivy.uix.settings.SettingOptions attribute),
+
+options (kivy.uix.video.Video attribute)
+options (kivy.uix.videoplayer.VideoPlayer attribute),
+
+order (kivy.uix.effectwidget.ChannelMixEffect attribute),
+
+orientation (kivy.uix.accordion.Accordion attribute),
+
+orientation (kivy.uix.accordion.AccordionItem attribute),
+
+orientation (kivy.uix.boxlayout.BoxLayout attribute),
+
+orientation (kivy.uix.bubble.Bubble attribute),
+
+orientation (kivy.uix.slider.Slider attribute),
+
+orientation (kivy.uix.stacklayout.StackLayout attribute),
+
+origin (kivy.graphics.context_instructions.Rotate attribute))
+origin (kivy.graphics.Rotate attribute)
+osx (kivy.input.motionevent.MotionEvent attribute),
+
+osy (kivy.input.motionevent.MotionEvent attribute),
+
+osz (kivy.input.motionevent.MotionEvent attribute)
+out_back() (kivy.animation.AnimationTransition static method)
+out_bounce() (kivy.animation.AnimationTransition static method)
+out_circ() (kivy.animation.AnimationTransition static method)
+out_cubic() (kivy.animation.AnimationTransition static method)
+out_elastic() (kivy.animation.AnimationTransition static method)
+out_expo() (kivy.animation.AnimationTransition static method)
+out_quad() (kivy.animation.AnimationTransition static method)
+out_quart() (kivy.animation.AnimationTransition static method)
+out_quint() (kivy.animation.AnimationTransition static method)
+out_sine() (kivy.animation.AnimationTransition static method)
+overdraw_width (kivy.graphics.vertex_instructions.SmoothLine attribute))
+overflow_group (kivy.uix.actionbar.ActionView attribute))
+overflow_image (kivy.uix.actionbar.ActionOverflow attribute))
+overscroll (kivy.effects.scroll.ScrollEffect attribute),
+
+ox (kivy.input.motionevent.MotionEvent attribute),
+
+oy (kivy.input.motionevent.MotionEvent attribute),
+
+oz (kivy.input.motionevent.MotionEvent attribute),
+
+
+padding (kivy.uix.anchorlayout.AnchorLayout attribute),
+
+padding (kivy.uix.boxlayout.BoxLayout attribute),
+
+padding (kivy.uix.gridlayout.GridLayout attribute),
+
+padding (kivy.uix.label.Label attribute)
+padding (kivy.uix.slider.Slider attribute)
+padding (kivy.uix.stacklayout.StackLayout attribute),
+
+padding (kivy.uix.textinput.TextInput attribute),
+
+padding_x (kivy.uix.label.Label attribute)
+padding_x (kivy.uix.textinput.TextInput attribute),
+
+padding_y (kivy.uix.label.Label attribute)
+padding_y (kivy.uix.textinput.TextInput attribute),
+
+page (kivy.uix.pagelayout.PageLayout attribute),
+
+page_count (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+PageLayout (class in kivy.uix.pagelayout)
+panel (kivy.uix.settings.SettingItem attribute),
+
+panels (kivy.uix.settings.ContentPanel attribute),
+
+parent (kivy.core.window.WindowBase attribute),
+
+parent (kivy.uix.widget.Widget attribute),
+
+parent_node (kivy.uix.treeview.TreeViewNode attribute),
+
+parse() (kivy.lang.Parser method)
+parse_bool() (in module kivy.parser)
+parse_color() (in module kivy.parser)
+parse_filename() (in module kivy.parser)
+parse_float (in module kivy.parser)
+parse_float() (in module kivy.parser)
+parse_gesture() (kivy.multistroke.Recognizer method)
+parse_int (in module kivy.parser)
+parse_int() (in module kivy.parser)
+parse_level() (kivy.lang.Parser method)
+parse_string() (in module kivy.parser)
+Parser (class in kivy.lang)
+ParserException (class in kivy.lang)
+password (kivy.uix.textinput.TextInput attribute),
+
+paste() (kivy.uix.textinput.TextInput method),
+
+path (kivy.uix.filechooser.FileChooserController attribute))
+path (kivy.uix.filechooser.FileChooserProgressBase attribute))
+pause() (kivy.core.video.VideoBase method),
+
+pause() (kivy.loader.LoaderBase method)
+permute() (kivy.multistroke.MultistrokeGesture method)
+perspective() (kivy.graphics.transformation.Matrix method)
+pixel_size (kivy.uix.effectwidget.PixelateEffect attribute),
+
+PixelateEffect (class in kivy.uix.effectwidget),
+
+pixels (kivy.graphics.Fbo attribute)
+pixels (kivy.graphics.fbo.Fbo attribute)
+pixels (kivy.graphics.texture.Texture attribute),
+
+platform (in module kivy.utils)
+play (kivy.input.recorder.Recorder attribute),
+
+
+play (kivy.uix.camera.Camera attribute)
+play (kivy.uix.video.Video attribute)
+play (kivy.uix.videoplayer.VideoPlayer attribute),
+
+play() (kivy.core.audio.Sound method)
+play() (kivy.core.video.VideoBase method),
+
+Point (class in kivy.graphics)
+Point (class in kivy.graphics.vertex_instructions),
+
+points (kivy.graphics.Bezier attribute)
+points (kivy.graphics.Line attribute)
+points (kivy.graphics.Point attribute)
+points (kivy.graphics.Quad attribute)
+points (kivy.graphics.Triangle attribute)
+points (kivy.graphics.vertex_instructions.Bezier attribute))
+points (kivy.graphics.vertex_instructions.Line attribute),
+
+points (kivy.graphics.vertex_instructions.Point attribute),
+
+points (kivy.graphics.vertex_instructions.Quad attribute),
+
+points (kivy.graphics.vertex_instructions.Triangle attribute))
+points_distance() (kivy.gesture.GestureStroke method)
+pointsize (kivy.graphics.Point attribute)
+pointsize (kivy.graphics.vertex_instructions.Point attribute))
+pop() (kivy.input.MotionEvent method)
+pop() (kivy.input.motionevent.MotionEvent method)
+PopMatrix (class in kivy.graphics)
+PopMatrix ( kivy.graphics.context_instructions),
+
+PopState (class in kivy.graphics)
+Popup (class in kivy.uix.popup)
+popup (kivy.uix.settings.SettingOptions attribute),
+
+popup (kivy.uix.settings.SettingPath attribute),
+
+popup (kivy.uix.settings.SettingString attribute),
+
+PopupException (class in kivy.uix.popup),
+
+pos (kivy.graphics.Rectangle attribute)
+pos (kivy.graphics.vertex_instructions.Rectangle attribute))
+pos (kivy.input.motionevent.MotionEvent attribute),
+
+pos (kivy.uix.widget.Widget attribute)
+pos_hint (kivy.uix.widget.Widget attribute),
+
+position (kivy.core.video.VideoBase attribute),
+
+position (kivy.uix.video.Video attribute)
+position (kivy.uix.videoplayer.VideoPlayer attribute),
+
+post_dispatch_input() (kivy.base.EventLoopBase method)
+ppos (kivy.input.MotionEvent attribute)
+ppos (kivy.input.motionevent.MotionEvent attribute),
+
+preload() (kivy.uix.rst.RstDocument method),
+
+prepare() (kivy.multistroke.Candidate method),
+
+prepare() (kivy.multistroke.UnistrokeTemplate method)
+prepare_templates() (kivy.multistroke.Recognizer method)
+previous() (kivy.uix.screenmanager.ScreenManager method)
+previous_image (kivy.uix.actionbar.ActionPrevious attribute))
+previous_slide (kivy.uix.carousel.Carousel attribute),
+
+print_usage() (kivy.cache.Cache static method),
+
+profile (kivy.input.motionevent.MotionEvent attribute),
+
+progress (kivy.multistroke.ProgressTracker attribute),
+
+progress_cls (kivy.uix.filechooser.FileChooserController attribute))
+ProgressBar (class in kivy.uix.progressbar),
+
+ProgressTracker (class in kivy.multistroke),
+
+project() (kivy.graphics.transformation.Matrix method)
+propagate_selection_to_data (kivy.adapters.listadapter.ListAdapter attribute))
+properties() (kivy.event.EventDispatcher method),
+
+Property (class in kivy.properties)
+property() (kivy.event.EventDispatcher method),
+
+proxy_ref (kivy.event.EventDispatcher attribute),
+
+proxy_ref (kivy.graphics.Instruction attribute)
+proxy_ref (kivy.graphics.instructions.Instruction attribute))
+proxy_ref (kivy.uix.widget.Widget attribute),
+
+ProxyImage (class in kivy.loader)
+psx (kivy.input.motionevent.MotionEvent attribute)
+psy (kivy.input.motionevent.MotionEvent attribute),
+
+psz (kivy.input.motionevent.MotionEvent attribute),
+
+pt() (in module kivy.metrics)
+push() (kivy.input.MotionEvent method)
+push() (kivy.input.motionevent.MotionEvent method)
+push_attrs_stack (kivy.input.motionevent.MotionEvent attribute))
+PushMatrix (class in kivy.graphics)
+PushMatrix ( kivy.graphics.context_instructions),
+
+PushState (class in kivy.graphics)
+put() (kivy.storage.AbstractStore method)
+px (kivy.input.motionevent.MotionEvent attribute),
+
+py (kivy.input.motionevent.MotionEvent attribute),
+
+PY (in module kivy.compat)
+pz (kivy.input.motionevent.MotionEvent attribute),
+
+
+Quad (class in kivy.graphics)
+Quad (class in kivy.graphics.vertex_instructions),
+
+QueryDict (class in kivy.utils)
+
+r (kivy.graphics.ClearColor attribute)
+r (kivy.graphics.Color attribute)
+r (kivy.graphics.context_instructions.Color attribute),
+
+r (kivy.graphics.gl_instructions.ClearColor attribute),
+
+r (kivy.uix.colorpicker.ColorWheel attribute),
+
+range (kivy.uix.slider.Slider attribute)
+read() (kivy.config.ConfigParser method)
+read_pixel() (kivy.core.image.Image method),
+
+readonly (kivy.uix.textinput.TextInput attribute),
+
+recognize() (kivy.multistroke.Recognizer method),
+
+Recognizer (class in kivy.multistroke)
+record (kivy.input.recorder.Recorder attribute),
+
+record_attrs (kivy.input.recorder.Recorder attribute),
+
+record_profile_mask (kivy.input.recorder.Recorder attribute))
+Recorder (class in kivy.input.recorder)
+Rectangle (class in kivy.graphics)
+Rectangle ( kivy.graphics.vertex_instructions)
+rectangle (kivy.graphics.Line attribute)
+rectangle (kivy.graphics.vertex_instructions.Line attribute))
+RedisStore (class in kivy.storage.redisstore),
+
+ReferenceListProperty (class in kivy.properties),
+
+refresh() (kivy.core.text.LabelBase method),
+
+refresh() (kivy.uix.vkeyboard.VKeyboard method)
+refresh_fbo_setup() (kivy.uix.effectwidget.EffectWidget method)
+refs (kivy.core.text.markup.MarkupLabel attribute),
+
+refs (kivy.uix.label.Label attribute)
+register() (kivy.cache.Cache static method),
+
+register() (kivy.core.audio.SoundLoader static method)
+register() (kivy.core.text.LabelBase static method),
+
+register() (kivy.input.factory.MotionEventFactory static method)
+register() (kivy.input.MotionEventFactory static method)
+register() (kivy.input.providers.tuio.TuioMotionEventProvider static method)
+register_context() (in module kivy.context),
+
+register_event_type() (kivy.event.EventDispatcher method)
+register_type() (kivy.uix.settings.Settings method),
+
+reify (class in kivy.utils)
+RelativeLayout (class in kivy.uix.relativelayout),
+
+release() (kivy.core.window.Keyboard method),
+
+release() (kivy.graphics.Fbo method)
+release() (kivy.graphics.fbo.Fbo method)
+release_all_keyboards() (kivy.core.window.WindowBase method)
+release_keyboard() (kivy.core.window.WindowBase method)
+reload() (kivy.uix.image.Image method)
+remove() (kivy.cache.Cache static method),
+
+remove() (kivy.graphics.InstructionGroup method)
+
+remove() (kivy.graphics.instructions.InstructionGroup method)
+remove_callback() (kivy.config.ConfigParser method)
+remove_event_listener() (kivy.base.EventLoopBase method),
+
+remove_from_cache() (kivy.core.image.Image method)
+remove_group() (kivy.graphics.InstructionGroup method)
+remove_group() (kivy.graphics.instructions.InstructionGroup method)
+remove_handler() (kivy.base.ExceptionManagerBase method)
+remove_input_provider() (kivy.base.EventLoopBase method),
+
+remove_node() (kivy.uix.treeview.TreeView method)
+remove_postproc_module() (kivy.base.EventLoopBase method),
+
+remove_reload_observer() (kivy.graphics.context.Context method),
+
+remove_reload_observer() (kivy.graphics.Fbo method)
+remove_reload_observer() (kivy.graphics.fbo.Fbo method)
+remove_reload_observer() (kivy.graphics.texture.Texture method),
+
+remove_screen() (kivy.uix.screenmanager.TransitionBase method)
+remove_widget() (kivy.core.window.WindowBase method)
+remove_widget() (kivy.uix.widget.Widget method)
+render() (kivy.core.text.LabelBase method),
+
+render() (kivy.uix.rst.RstDocument method),
+
+RenderContext (class in kivy.graphics)
+RenderContext ( kivy.graphics.instructions)
+representing_cls (kivy.uix.listview.CompositeListItem attribute))
+req_body (kivy.network.urlrequest.UrlRequest attribute),
+
+req_headers (kivy.network.urlrequest.UrlRequest attribute))
+request_keyboard() (kivy.core.window.WindowBase method)
+require() (in module kivy)
+rescale_with_parent (kivy.uix.splitter.Splitter attribute),
+
+reset() (kivy.effects.scroll.ScrollEffect method),
+
+reset_context (kivy.graphics.Callback attribute),
+
+reset_context (kivy.graphics.instructions.Callback attribute))
+reset_undo() (kivy.uix.textinput.TextInput method)
+resolution (kivy.core.camera.CameraBase attribute),
+
+resolution (kivy.uix.camera.Camera attribute),
+
+resolve_path() (kivy.uix.rst.RstDocument method)
+resource_add_path() (in module kivy.resources),
+
+resource_find() (in module kivy.resources),
+
+resource_remove_path() (in module kivy.resources)
+resp_headers (kivy.network.urlrequest.UrlRequest attribute))
+resp_status (kivy.network.urlrequest.UrlRequest attribute))
+restore() (kivy.core.window.WindowBase method)
+result (kivy.network.urlrequest.UrlRequest attribute),
+
+resume() (kivy.loader.LoaderBase method),
+
+rgb (kivy.graphics.ClearColor attribute)
+rgb (kivy.graphics.Color attribute)
+rgb (kivy.graphics.context_instructions.Color attribute),
+
+rgb (kivy.graphics.gl_instructions.ClearColor attribute),
+
+rgba (kivy.graphics.ClearColor attribute)
+rgba (kivy.graphics.Color attribute)
+rgba (kivy.graphics.context_instructions.Color attribute),
+
+rgba (kivy.graphics.gl_instructions.ClearColor attribute),
+
+right (kivy.uix.widget.Widget attribute)
+right_count (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+RiseInTransition (class in kivy.uix.screenmanager),
+
+root (kivy.app.App attribute)
+root (kivy.uix.treeview.TreeView attribute),
+
+root_options (kivy.uix.treeview.TreeView attribute),
+
+root_window (kivy.app.App attribute)
+
+rootpath (kivy.uix.filechooser.FileChooserController attribute))
+Rotate (class in kivy.graphics)
+Rotate (class in kivy.graphics.context_instructions),
+
+rotate() (kivy.graphics.transformation.Matrix method)
+rotate() (kivy.vector.Vector method)
+rotation (kivy.core.window.WindowBase attribute),
+
+rotation (kivy.uix.scatter.Scatter attribute)
+round_value (kivy.effects.dampedscroll.DampedScrollEffect attribute))
+rounded_rectangle (kivy.graphics.Line attribute),
+
+rounded_rectangle (kivy.graphics.vertex_instructions.Line attribute))
+row_default_height (kivy.uix.gridlayout.GridLayout attribute))
+row_force_default (kivy.uix.gridlayout.GridLayout attribute))
+row_height (kivy.uix.listview.ListView attribute),
+
+rowlength (kivy.core.image.ImageData attribute),
+
+rows (kivy.uix.gridlayout.GridLayout attribute),
+
+rows_minimum (kivy.uix.gridlayout.GridLayout attribute))
+RstDocument (class in kivy.uix.rst)
+run() (kivy.app.App method)
+run() (kivy.base.EventLoopBase method)
+run() (kivy.loader.LoaderBase method)
+runTouchApp() (in module kivy.base)
+
+s (kivy.graphics.Color attribute)
+s (kivy.graphics.context_instructions.Color attribute),
+
+safeIn() (kivy.interactive.SafeMembrane method),
+
+SafeList (class in kivy.utils)
+SafeMembrane (class in kivy.interactive)
+safeOut() (kivy.interactive.SafeMembrane method)
+Sandbox (class in kivy.uix.sandbox)
+save() (kivy.core.image.Image method)
+save() (kivy.graphics.texture.Texture method),
+
+Scale (class in kivy.graphics)
+Scale (class in kivy.graphics.context_instructions),
+
+scale (kivy.graphics.context_instructions.Scale attribute),
+
+scale (kivy.graphics.Scale attribute)
+scale (kivy.uix.scatter.Scatter attribute)
+scale() (kivy.graphics.transformation.Matrix method)
+scale_for_screen() (kivy.input.MotionEvent method)
+scale_for_screen() (kivy.input.motionevent.MotionEvent method)
+scale_max (kivy.uix.scatter.Scatter attribute),
+
+scale_min (kivy.uix.scatter.Scatter attribute),
+
+scale_stroke() (kivy.gesture.GestureStroke method)
+ScanlinesEffect (class in kivy.uix.effectwidget),
+
+Scatter (class in kivy.uix.scatter)
+ScatterLayout (class in kivy.uix.scatterlayout),
+
+ScatterPlane (class in kivy.uix.scatter)
+schedule_interval() (kivy.clock.ClockBase method)
+schedule_once() (kivy.clock.ClockBase method),
+
+Screen (class in kivy.uix.screenmanager)
+screen_in (kivy.uix.screenmanager.TransitionBase attribute))
+screen_names (kivy.uix.screenmanager.ScreenManager attribute))
+screen_out (kivy.uix.screenmanager.TransitionBase attribute))
+ScreenManager (class in kivy.uix.screenmanager),
+
+ScreenManagerException ( kivy.uix.screenmanager)
+screens (kivy.uix.screenmanager.ScreenManager attribute))
+screenshot() (kivy.core.window.WindowBase method)
+scroll (kivy.effects.scroll.ScrollEffect attribute),
+
+scroll_count (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+scroll_distance (kivy.uix.carousel.Carousel attribute),
+
+scroll_distance (kivy.uix.scrollview.ScrollView attribute),
+
+scroll_timeout (kivy.uix.carousel.Carousel attribute),
+
+scroll_timeout (kivy.uix.scrollview.ScrollView attribute),
+
+scroll_type (kivy.uix.scrollview.ScrollView attribute),
+
+scroll_wheel_distance (kivy.uix.scrollview.ScrollView attribute),
+
+
+scroll_x (kivy.uix.scrollview.ScrollView attribute),
+
+scroll_x (kivy.uix.textinput.TextInput attribute),
+
+scroll_y (kivy.uix.scrollview.ScrollView attribute),
+
+scroll_y (kivy.uix.textinput.TextInput attribute),
+
+ScrollEffect (class in kivy.effects.scroll)
+scrolling (kivy.uix.listview.ListView attribute),
+
+ScrollView (class in kivy.uix.scrollview)
+section (kivy.uix.settings.SettingItem attribute),
+
+seek() (kivy.core.audio.Sound method)
+seek() (kivy.core.video.VideoBase method),
+
+seek() (kivy.uix.video.Video method)
+seek() (kivy.uix.videoplayer.VideoPlayer method),
+
+segment_intersection() (kivy.vector.Vector static method)
+segments (kivy.graphics.Bezier attribute)
+segments (kivy.graphics.Ellipse attribute)
+segments (kivy.graphics.vertex_instructions.Bezier attribute))
+segments (kivy.graphics.vertex_instructions.Ellipse attribute))
+select() (kivy.uix.dropdown.DropDown method),
+
+select() (kivy.uix.listview.SelectableView method),
+
+select_all() (kivy.uix.textinput.TextInput method),
+
+select_language() (kivy.core.spelling.SpellingBase method)
+select_list() (kivy.adapters.listadapter.ListAdapter method)
+select_node() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+select_node() (kivy.uix.treeview.TreeView method)
+select_text() (kivy.uix.textinput.TextInput method)
+select_with_key_down() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+select_with_key_up() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+select_with_touch() (kivy.uix.behaviors.CompoundSelectionBehavior method)
+SelectableDataItem ( kivy.adapters.models)
+SelectableView (class in kivy.uix.listview)
+selected_alpha (kivy.uix.settings.SettingItem attribute),
+
+selected_color (kivy.uix.listview.CompositeListItem attribute))
+selected_color (kivy.uix.listview.ListItemButton attribute))
+selected_node (kivy.uix.treeview.TreeView attribute),
+
+selected_nodes (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+selection (kivy.adapters.listadapter.ListAdapter attribute))
+selection (kivy.uix.filechooser.FileChooserController attribute))
+selection_color (kivy.uix.textinput.TextInput attribute),
+
+selection_from (kivy.uix.textinput.TextInput attribute),
+
+selection_limit (kivy.adapters.listadapter.ListAdapter attribute))
+selection_mode (kivy.adapters.listadapter.ListAdapter attribute))
+selection_text (kivy.uix.textinput.TextInput attribute),
+
+selection_to (kivy.uix.textinput.TextInput attribute),
+
+separator_color (kivy.uix.popup.Popup attribute),
+
+separator_height (kivy.uix.popup.Popup attribute),
+
+separator_image (kivy.uix.actionbar.ActionGroup attribute))
+separator_width (kivy.uix.actionbar.ActionGroup attribute))
+set() (kivy.config.ConfigParser method)
+set() (kivy.graphics.context_instructions.Rotate method)
+set() (kivy.graphics.Rotate method)
+set() (kivy.properties.Property method)
+set_config() (kivy.properties.ConfigParserProperty method)
+set_fbo_shader() (kivy.uix.effectwidget.EffectBase method)
+set_icon() (kivy.core.window.WindowBase method)
+set_max() (kivy.properties.BoundedNumericProperty method)
+set_min() (kivy.properties.BoundedNumericProperty method)
+set_title() (kivy.core.window.WindowBase method)
+set_vkeyboard_class() (kivy.core.window.WindowBase method)
+set_window() (kivy.base.EventLoopBase method),
+
+
+setall() (kivy.config.ConfigParser method),
+
+setdefault() (kivy.config.ConfigParser method),
+
+setdefaults() (kivy.config.ConfigParser method),
+
+setter() (kivy.event.EventDispatcher method),
+
+SettingBoolean (class in kivy.uix.settings),
+
+SettingItem (class in kivy.uix.settings)
+SettingNumeric (class in kivy.uix.settings),
+
+SettingOptions (class in kivy.uix.settings),
+
+SettingPath (class in kivy.uix.settings)
+Settings (class in kivy.uix.settings)
+settings (kivy.uix.settings.SettingsPanel attribute),
+
+settings_cls (kivy.app.App attribute)
+SettingsPanel (class in kivy.uix.settings)
+SettingString (class in kivy.uix.settings)
+SettingsWithNoMenu (class in kivy.uix.settings),
+
+SettingsWithSidebar (class in kivy.uix.settings),
+
+SettingsWithSpinner (class in kivy.uix.settings),
+
+SettingsWithTabbedPanel ( kivy.uix.settings)
+SettingTitle (class in kivy.uix.settings)
+setup_mode() (kivy.uix.vkeyboard.VKeyboard method)
+setup_mode_dock() (kivy.uix.vkeyboard.VKeyboard method)
+setup_mode_free() (kivy.uix.vkeyboard.VKeyboard method)
+Shader (class in kivy.graphics.shader)
+shader (kivy.graphics.instructions.RenderContext attribute))
+shader (kivy.graphics.RenderContext attribute),
+
+ShaderTransition ( kivy.uix.screenmanager)
+Shape (class in kivy.input.shape)
+shape (kivy.input.motionevent.MotionEvent attribute),
+
+ShapeRect (class in kivy.input.shape)
+shorten (kivy.uix.label.Label attribute)
+shorten() (kivy.core.text.LabelBase method),
+
+shorten_from (kivy.uix.label.Label attribute),
+
+shorten_post() (kivy.core.text.markup.MarkupLabel method)
+show() (kivy.core.window.WindowBase method),
+
+show_arrow (kivy.uix.bubble.Bubble attribute),
+
+show_errors (kivy.uix.rst.RstDocument attribute),
+
+show_hidden (kivy.uix.filechooser.FileChooserController attribute))
+show_keyboard() (kivy.uix.textinput.TextInput method)
+SimpleListAdapter ( kivy.adapters.simplelistadapter),
+
+single_points_test() (kivy.uix.gesturesurface.GestureContainer method)
+sizable_from (kivy.uix.splitter.Splitter attribute),
+
+size (kivy.core.image.Image attribute)
+size (kivy.core.image.ImageData attribute),
+
+size (kivy.core.window.WindowBase attribute),
+
+size (kivy.graphics.Fbo attribute)
+size (kivy.graphics.fbo.Fbo attribute)
+size (kivy.graphics.Rectangle attribute)
+size (kivy.graphics.texture.Texture attribute),
+
+size (kivy.graphics.vertex_instructions.Rectangle attribute))
+size (kivy.uix.effectwidget.HorizontalBlurEffect attribute))
+size (kivy.uix.effectwidget.VerticalBlurEffect attribute),
+
+size (kivy.uix.widget.Widget attribute)
+size_hint (kivy.uix.widget.Widget attribute),
+
+size_hint_x (kivy.uix.widget.Widget attribute),
+
+size_hint_y (kivy.uix.widget.Widget attribute),
+
+Slider (class in kivy.uix.slider)
+slides (kivy.uix.carousel.Carousel attribute),
+
+SlideTransition (class in kivy.uix.screenmanager),
+
+SmoothLine ( kivy.graphics.vertex_instructions)
+softinput_mode (kivy.core.window.WindowBase attribute))
+sort_func (kivy.uix.filechooser.FileChooserController attribute))
+sorted_keys (kivy.adapters.dictadapter.DictAdapter attribute))
+Sound (class in kivy.core.audio)
+
+SoundLoader (class in kivy.core.audio)
+source (kivy.core.audio.Sound attribute)
+source (kivy.core.image.ImageData attribute),
+
+source (kivy.graphics.BindTexture attribute)
+source (kivy.graphics.context_instructions.BindTexture attribute))
+source (kivy.graphics.instructions.VertexInstruction attribute))
+source (kivy.graphics.shader.Shader attribute),
+
+source (kivy.graphics.VertexInstruction attribute),
+
+source (kivy.uix.effectwidget.EffectBase attribute),
+
+source (kivy.uix.image.Image attribute)
+source (kivy.uix.rst.RstDocument attribute),
+
+source (kivy.uix.videoplayer.VideoPlayer attribute),
+
+source_encoding (kivy.uix.rst.RstDocument attribute))
+source_error (kivy.uix.rst.RstDocument attribute),
+
+source_stack (kivy.graphics.ApplyContextMatrix attribute))
+sp() (in module kivy.metrics)
+spacing (kivy.uix.boxlayout.BoxLayout attribute),
+
+spacing (kivy.uix.gridlayout.GridLayout attribute),
+
+spacing (kivy.uix.stacklayout.StackLayout attribute),
+
+SpellingBase (class in kivy.core.spelling)
+Spinner (class in kivy.uix.spinner)
+SpinnerOption (class in kivy.uix.spinner),
+
+split_str (kivy.uix.label.Label attribute)
+Splitter (class in kivy.uix.splitter)
+spos (kivy.input.MotionEvent attribute)
+spos (kivy.input.motionevent.MotionEvent attribute),
+
+spring_constant (kivy.effects.dampedscroll.DampedScrollEffect attribute))
+stack (kivy.graphics.context_instructions.MatrixInstruction attribute))
+stack (kivy.graphics.context_instructions.PopMatrix attribute))
+stack (kivy.graphics.context_instructions.PushMatrix attribute))
+stack (kivy.graphics.LoadIdentity attribute)
+stack (kivy.graphics.MatrixInstruction attribute),
+
+stack (kivy.graphics.PopMatrix attribute)
+stack (kivy.graphics.PushMatrix attribute)
+StackLayout (class in kivy.uix.stacklayout),
+
+start (kivy.uix.videoplayer.VideoPlayerAnnotation attribute))
+start() (kivy.animation.Animation method),
+
+start() (kivy.base.EventLoopBase method),
+
+start() (kivy.core.camera.CameraBase method),
+
+start() (kivy.effects.kinetic.KineticEffect method),
+
+start() (kivy.input.MotionEventProvider method),
+
+start() (kivy.input.provider.MotionEventProvider method)
+start() (kivy.input.providers.tuio.TuioMotionEventProvider method)
+start() (kivy.loader.LoaderBase method)
+start() (kivy.uix.screenmanager.TransitionBase method)
+state (kivy.core.audio.Sound attribute)
+state (kivy.core.video.VideoBase attribute),
+
+state (kivy.uix.behaviors.ButtonBehavior attribute),
+
+state (kivy.uix.video.Video attribute)
+state (kivy.uix.videoplayer.VideoPlayer attribute),
+
+status (kivy.core.audio.Sound attribute)
+StencilPop (class in kivy.graphics)
+StencilPop ( kivy.graphics.stencil_instructions),
+
+StencilPush (class in kivy.graphics)
+StencilPush ( kivy.graphics.stencil_instructions),
+
+StencilUnUse (class in kivy.graphics)
+StencilUnUse ( kivy.graphics.stencil_instructions),
+
+StencilUse (class in kivy.graphics)
+StencilUse ( kivy.graphics.stencil_instructions),
+
+StencilView (class in kivy.uix.stencilview),
+
+step (kivy.uix.slider.Slider attribute)
+stop() (in module kivy.modules.inspector),
+
+stop() (kivy.animation.Animation method),
+
+stop() (kivy.app.App method)
+stop() (kivy.base.EventLoopBase method)
+
+stop() (kivy.core.audio.Sound method)
+stop() (kivy.core.camera.CameraBase method),
+
+stop() (kivy.core.video.VideoBase method),
+
+stop() (kivy.effects.kinetic.KineticEffect method),
+
+stop() (kivy.input.MotionEventProvider method),
+
+stop() (kivy.input.provider.MotionEventProvider method)
+stop() (kivy.input.providers.tuio.TuioMotionEventProvider method)
+stop() (kivy.loader.LoaderBase method)
+stop() (kivy.multistroke.ProgressTracker method),
+
+stop() (kivy.uix.screenmanager.TransitionBase method)
+stop_all() (kivy.animation.Animation static method)
+stop_property() (kivy.animation.Animation method)
+stopTouchApp() (in module kivy.base)
+str_to_gesture() (kivy.gesture.GestureDatabase method)
+string_to_keycode() (kivy.core.window.Keyboard method)
+string_types (in module kivy.compat)
+StringProperty (class in kivy.properties)
+strip (kivy.uix.label.Label attribute)
+strip_border (kivy.uix.tabbedpanel.TabbedPanel attribute))
+strip_cls (kivy.uix.splitter.Splitter attribute),
+
+strip_comments() (kivy.lang.Parser method),
+
+strip_image (kivy.uix.tabbedpanel.TabbedPanel attribute))
+strip_size (kivy.uix.splitter.Splitter attribute),
+
+StripLayout (class in kivy.uix.tabbedpanel),
+
+stroke_length() (kivy.gesture.GestureStroke method)
+strtotuple() (in module kivy.utils)
+success (kivy.graphics.shader.Shader attribute),
+
+suggest() (kivy.core.spelling.SpellingBase method)
+Svg (class in kivy.graphics.svg)
+SwapTransition (class in kivy.uix.screenmanager),
+
+swipe_threshold (kivy.uix.pagelayout.PageLayout attribute))
+Switch (class in kivy.uix.switch)
+switch_to() (kivy.uix.screenmanager.ScreenManager method)
+switch_to() (kivy.uix.tabbedpanel.TabbedPanel method)
+sx (kivy.input.motionevent.MotionEvent attribute),
+
+sy (kivy.input.motionevent.MotionEvent attribute),
+
+sync() (kivy.lang.BuilderBase method)
+system_size (kivy.core.window.WindowBase attribute),
+
+sz (kivy.input.motionevent.MotionEvent attribute),
+
+
+tab_height (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+tab_list (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+tab_pos (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+tab_width (kivy.uix.tabbedpanel.TabbedPanel attribute),
+
+tab_width (kivy.uix.textinput.TextInput attribute),
+
+tabbed_panel (kivy.uix.tabbedpanel.TabbedPanelStrip attribute))
+TabbedPanel (class in kivy.uix.tabbedpanel),
+
+TabbedPanelContent ( kivy.uix.tabbedpanel)
+TabbedPanelException ( kivy.uix.tabbedpanel)
+TabbedPanelHeader ( kivy.uix.tabbedpanel)
+TabbedPanelItem (class in kivy.uix.tabbedpanel),
+
+TabbedPanelStrip (class in kivy.uix.tabbedpanel),
+
+target (kivy.core.window.Keyboard attribute),
+
+target (kivy.graphics.texture.Texture attribute),
+
+target (kivy.uix.vkeyboard.VKeyboard attribute),
+
+target_stack (kivy.graphics.ApplyContextMatrix attribute))
+target_widget (kivy.effects.scroll.ScrollEffect attribute),
+
+template (kivy.adapters.adapter.Adapter attribute),
+
+template() (kivy.lang.BuilderBase method),
+
+tesselate() (kivy.graphics.tesselator.Tesselator method)
+
+Tesselator (class in kivy.graphics.tesselator),
+
+tex_coords (kivy.graphics.instructions.VertexInstruction attribute))
+tex_coords (kivy.graphics.texture.Texture attribute),
+
+tex_coords (kivy.graphics.VertexInstruction attribute),
+
+text (kivy.core.text.LabelBase attribute)
+text (kivy.uix.label.Label attribute)
+text (kivy.uix.rst.RstDocument attribute)
+text (kivy.uix.textinput.TextInput attribute),
+
+text_size (kivy.core.text.LabelBase attribute),
+
+text_size (kivy.uix.label.Label attribute)
+TextInput (class in kivy.uix.textinput)
+textinput (kivy.uix.settings.SettingPath attribute),
+
+textinput (kivy.uix.settings.SettingString attribute),
+
+Texture (class in kivy.graphics.texture)
+texture (kivy.core.camera.CameraBase attribute),
+
+texture (kivy.core.image.Image attribute)
+texture (kivy.core.video.VideoBase attribute),
+
+texture (kivy.graphics.Fbo attribute)
+texture (kivy.graphics.fbo.Fbo attribute)
+texture (kivy.graphics.instructions.VertexInstruction attribute))
+texture (kivy.graphics.VertexInstruction attribute),
+
+texture (kivy.uix.effectwidget.EffectWidget attribute),
+
+texture (kivy.uix.image.Image attribute)
+texture (kivy.uix.label.Label attribute)
+texture_size (kivy.uix.image.Image attribute),
+
+texture_size (kivy.uix.label.Label attribute),
+
+texture_update() (kivy.uix.label.Label method),
+
+TextureRegion (class in kivy.graphics.texture),
+
+textures (kivy.atlas.Atlas attribute)
+thumbnail (kivy.uix.videoplayer.VideoPlayer attribute),
+
+tick() (kivy.clock.ClockBase method)
+tick_draw() (kivy.clock.ClockBase method),
+
+time_end (kivy.input.motionevent.MotionEvent attribute))
+time_start (kivy.input.motionevent.MotionEvent attribute))
+time_update (kivy.input.motionevent.MotionEvent attribute))
+title (kivy.app.App attribute)
+title (kivy.uix.accordion.AccordionItem attribute),
+
+title (kivy.uix.actionbar.ActionPrevious attribute),
+
+title (kivy.uix.popup.Popup attribute)
+title (kivy.uix.rst.RstDocument attribute)
+title (kivy.uix.settings.SettingItem attribute),
+
+title (kivy.uix.settings.SettingsPanel attribute),
+
+title_args (kivy.uix.accordion.AccordionItem attribute),
+
+title_color (kivy.uix.popup.Popup attribute),
+
+title_size (kivy.uix.popup.Popup attribute),
+
+title_template (kivy.uix.accordion.AccordionItem attribute))
+to_local() (kivy.uix.widget.Widget method),
+
+to_parent() (kivy.uix.widget.Widget method),
+
+to_widget() (kivy.uix.widget.Widget method),
+
+to_window() (kivy.uix.widget.Widget method),
+
+toctrees (kivy.uix.rst.RstDocument attribute),
+
+toggle_fullscreen() (kivy.core.window.WindowBase method)
+toggle_node() (kivy.uix.treeview.TreeView method)
+ToggleButton (class in kivy.uix.togglebutton),
+
+ToggleButtonBehavior ( kivy.uix.behaviors)
+top (kivy.uix.widget.Widget attribute)
+total (kivy.uix.filechooser.FileChooserProgressBase attribute))
+touch_control (kivy.uix.switch.Switch attribute),
+
+touch_distance (kivy.uix.switch.Switch attribute),
+
+touch_multiselect (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+touches (kivy.base.EventLoopBase attribute),
+
+transfer_gesture() (kivy.multistroke.Recognizer method)
+transform (kivy.uix.scatter.Scatter attribute),
+
+transform_inv (kivy.uix.scatter.Scatter attribute),
+
+
+transition (kivy.animation.Animation attribute),
+
+transition (kivy.uix.screenmanager.ScreenManager attribute))
+transition_progress (kivy.uix.screenmanager.Screen attribute))
+transition_state (kivy.uix.screenmanager.Screen attribute))
+TransitionBase (class in kivy.uix.screenmanager),
+
+Translate (class in kivy.graphics)
+Translate ( kivy.graphics.context_instructions),
+
+translate() (kivy.graphics.transformation.Matrix method)
+translation_touches (kivy.uix.scatter.Scatter attribute),
+
+transpose() (kivy.graphics.transformation.Matrix method)
+TreeView (class in kivy.uix.treeview)
+TreeViewException (class in kivy.uix.treeview),
+
+TreeViewLabel (class in kivy.uix.treeview),
+
+TreeViewNode (class in kivy.uix.treeview),
+
+Triangle (class in kivy.graphics)
+Triangle (class in kivy.graphics.vertex_instructions),
+
+trigger_action() (kivy.uix.behaviors.ButtonBehavior method)
+trim_left_of_sel() (kivy.adapters.dictadapter.DictAdapter method)
+trim_left_of_sel() (kivy.adapters.listadapter.ListAdapter method)
+trim_right_of_sel() (kivy.adapters.dictadapter.DictAdapter method)
+trim_right_of_sel() (kivy.adapters.listadapter.ListAdapter method)
+trim_to_sel() (kivy.adapters.dictadapter.DictAdapter method)
+trim_to_sel() (kivy.adapters.listadapter.ListAdapter method)
+triple_tap_time (kivy.input.motionevent.MotionEvent attribute))
+TuiodCurMotionEvent ( kivy.input.providers.tuio),
+
+TuiodObjMotionEvent ( kivy.input.providers.tuio),
+
+TuioMotionEventProvider ( kivy.input.providers.tuio),
+
+
+ud (kivy.input.motionevent.MotionEvent attribute),
+
+uid (kivy.input.motionevent.MotionEvent attribute),
+
+unbind() (kivy.event.EventDispatcher method),
+
+unbind() (kivy.properties.Property method),
+
+unbind_widget() (kivy.lang.BuilderBase method),
+
+underline_color (kivy.uix.rst.RstDocument attribute),
+
+ungrab() (kivy.input.MotionEvent method)
+ungrab() (kivy.input.motionevent.MotionEvent method)
+uniforms (kivy.uix.effectwidget.AdvancedEffectBase attribute))
+uninstall_twisted_reactor() (in module kivy.support)
+UnistrokeTemplate (class in kivy.multistroke),
+
+unload() (kivy.core.audio.Sound method)
+unload() (kivy.core.video.VideoBase method),
+
+unload() (kivy.uix.video.Video method)
+unload_file() (kivy.lang.BuilderBase method),
+
+unregister() (kivy.input.providers.tuio.TuioMotionEventProvider static method)
+unregister_event_types() (kivy.event.EventDispatcher method),
+
+unschedule() (kivy.clock.ClockBase method),
+
+unzip_extensions() (in module kivy.ext)
+up_count (kivy.uix.behaviors.CompoundSelectionBehavior attribute))
+update() (kivy.effects.kinetic.KineticEffect method)
+update() (kivy.input.MotionEventProvider method)
+update() (kivy.input.provider.MotionEventProvider method)
+update() (kivy.input.providers.tuio.TuioMotionEventProvider method)
+update_bbox() (kivy.uix.gesturesurface.GestureContainer method)
+update_config() (kivy.config.ConfigParser method)
+update_from_scroll() (kivy.uix.scrollview.ScrollView method),
+
+
+update_velocity() (kivy.effects.kinetic.KineticEffect method)
+UpdateNormalMatrix (class in kivy.graphics)
+url (kivy.network.urlrequest.UrlRequest attribute),
+
+UrlRequest (class in kivy.network.urlrequest),
+
+use_bubble (kivy.uix.textinput.TextInput attribute),
+
+use_handles (kivy.uix.textinput.TextInput attribute),
+
+use_kivy_settings (kivy.app.App attribute),
+
+use_parent_modelview (kivy.graphics.instructions.RenderContext attribute))
+use_parent_modelview (kivy.graphics.RenderContext attribute),
+
+use_parent_projection (kivy.graphics.instructions.RenderContext attribute))
+use_parent_projection (kivy.graphics.RenderContext attribute),
+
+use_separator (kivy.uix.actionbar.ActionGroup attribute),
+
+use_separator (kivy.uix.actionbar.ActionView attribute),
+
+user_data_dir (kivy.app.App attribute)
+usersize (kivy.core.text.LabelBase attribute),
+
+uvpos (kivy.graphics.texture.Texture attribute),
+
+uvsize (kivy.graphics.texture.Texture attribute),
+
+
+v (kivy.graphics.Color attribute)
+v (kivy.graphics.context_instructions.Color attribute),
+
+valign (kivy.uix.label.Label attribute)
+value (kivy.effects.kinetic.KineticEffect attribute),
+
+value (kivy.uix.progressbar.ProgressBar attribute),
+
+value (kivy.uix.settings.SettingItem attribute),
+
+value (kivy.uix.slider.Slider attribute)
+value_normalized (kivy.uix.progressbar.ProgressBar attribute))
+value_normalized (kivy.uix.slider.Slider attribute),
+
+value_pos (kivy.uix.slider.Slider attribute),
+
+values (kivy.uix.settings.SettingBoolean attribute),
+
+values (kivy.uix.spinner.Spinner attribute),
+
+VariableListProperty (class in kivy.properties),
+
+vbar (kivy.uix.scrollview.ScrollView attribute),
+
+Vector (class in kivy.vector)
+velocity (kivy.effects.kinetic.KineticEffect attribute),
+
+vertex_count (kivy.graphics.tesselator.Tesselator attribute))
+VertexInstruction (class in kivy.graphics)
+VertexInstruction ( kivy.graphics.instructions)
+VerticalBlurEffect (class in kivy.uix.effectwidget),
+
+vertices (kivy.graphics.Mesh attribute)
+vertices (kivy.graphics.tesselator.Tesselator attribute),
+
+vertices (kivy.graphics.vertex_instructions.Mesh attribute))
+Video (class in kivy.uix.video)
+VideoBase (class in kivy.core.video)
+VideoPlayer (class in kivy.uix.videoplayer),
+
+VideoPlayerAnnotation ( kivy.uix.videoplayer)
+view_clip() (kivy.graphics.transformation.Matrix method)
+view_list (kivy.uix.filechooser.FileChooser attribute),
+
+view_mode (kivy.uix.filechooser.FileChooser attribute),
+
+viewport_size (kivy.uix.scrollview.ScrollView attribute),
+
+VKeyboard (class in kivy.uix.vkeyboard),
+
+volume (kivy.core.audio.Sound attribute)
+volume (kivy.core.video.VideoBase attribute),
+
+volume (kivy.uix.video.Video attribute)
+volume (kivy.uix.videoplayer.VideoPlayer attribute),
+
+vs (kivy.graphics.shader.Shader attribute)
+vs (kivy.uix.screenmanager.ShaderTransition attribute),
+
+
+wait() (kivy.network.urlrequest.UrlRequest method)
+walk() (kivy.uix.widget.Widget method)
+walk_reverse() (kivy.uix.widget.Widget method),
+
+
+WeakMethod (class in kivy.weakmethod),
+
+wheel (kivy.uix.colorpicker.ColorPicker attribute),
+
+Widget (class in kivy.uix.widget)
+widget (kivy.core.window.Keyboard attribute),
+
+WidgetException (class in kivy.uix.widget),
+
+width (kivy.core.image.Image attribute)
+width (kivy.core.image.ImageData attribute),
+
+width (kivy.core.window.WindowBase attribute),
+
+width (kivy.graphics.Line attribute)
+width (kivy.graphics.texture.Texture attribute),
+
+width (kivy.graphics.vertex_instructions.Line attribute),
+
+width (kivy.input.shape.ShapeRect attribute),
+
+width (kivy.uix.widget.Widget attribute),
+
+Window (in module kivy.core.window)
+window (kivy.core.window.Keyboard attribute),
+
+window (kivy.input.recorder.Recorder attribute),
+
+WindowBase (class in kivy.core.window)
+WipeTransition (class in kivy.uix.screenmanager),
+
+with_previous (kivy.uix.actionbar.ActionPrevious attribute))
+WM_MotionEvent ( kivy.input.providers.wm_touch),
+
+WM_Pen (class in kivy.input.providers.wm_pen),
+
+wrap (kivy.graphics.texture.Texture attribute),
+
+write() (kivy.config.ConfigParser method),
+
+
+x (kivy.graphics.context_instructions.Scale attribute),
+
+x (kivy.graphics.context_instructions.Translate attribute),
+
+x (kivy.graphics.Scale attribute)
+x (kivy.graphics.Translate attribute)
+x (kivy.input.motionevent.MotionEvent attribute),
+
+x (kivy.uix.widget.Widget attribute)
+x (kivy.vector.Vector attribute)
+xy (kivy.graphics.context_instructions.

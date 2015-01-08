@@ -1,0 +1,36 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+---
+name: Kivy Language
+scopeName: source.python.Kivy
+fileTypes: [kv]
+uuid: 3bdfee42-8195-49ea-95a9-93ed25031f29
+
+patterns:
+- name: support.type.kivy
+  match: '#:.*?$'
+
+- name: comment.kivy
+  match: '#.*?$'
+
+- name: storage.type.class
+  match: '\<[a-zA-Z\@\+_]+\>'
+
+- name: keyword.variable
+  match: '\b(self|parent|app|__self__|root)\b'
+
+- name: entity.name.section.kivy
+  match: '([A-Z][a-zA-Z]+|canvas|canvas.before|canvas.after):$'
+
+- name: support.function
+  match: '(on_[a-z_]+):'
+
+- name: support.variable
+  match: '([a-z][a-zA-Z_]+):'
+
+- name: variable
+  match: '(background_color|rgba|rgb|size|pos|size_x|pos_x|size_y|pos_y|border|background_normal|option_cls|do_scroll_x|do_scroll_y|size_hint|size_hint_x|size_hint_y|id|cols|spacing|padding|height|width|orientation|source|title|text|values|with_previous|icon|important|readonly|font_size|font|texture|texture_size|font_name|lexer):'
+
+- include: source.python
+
+
+...

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>kv</string>
+	</array>
+	<key>name</key>
+	<string>Kivy Language</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>#:.*?$</string>
+			<key>name</key>
+			<string>support.type.kivy</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>#.*?$</string>
+			<key>name</key>
+			<string>comment.kivy</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\&lt;[a-zA-Z\@\+_]+\&gt;</string>
+			<key>name</key>
+			<string>storage.type.class</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\b(self|parent|app|__self__|root)\b</string>
+			<key>name</key>
+			<string>keyword.variable</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([A-Z][a-zA-Z]+|canvas|canvas.before|canvas.after):$</string>
+			<key>name</key>
+			<string>entity.name.section.kivy</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>(on_[a-z_]+):</string>
+			<key>name</key>
+			<string>support.function</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>([a-z][a-zA-Z_]+):</string>
+			<key>name</key>
+			<string>support.variable</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>(background_color|rgba|rgb|size|pos|size_x|pos_x|size_y|pos_y|border|background_normal|option_cls|do_scroll_x|do_scroll_y|size_hint|size_hint_x|size_hint_y|id|cols|spacing|padding|height|width|orientation|source|title|text|values|with_previous|icon|important|readonly|font_size|font|texture|texture_size|font_name|lexer):</string>
+			<key>name</key>
+			<string>variable</string>
+		</dict>
+		<dict>
+			<key>include</key>
+			<string>source.python</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.python.Kivy</string>
+	<key>uuid</key>
+	<string>3bdfee42-8195-49ea-95a9-93ed25031f29</string>
+</dict>
+</plist>

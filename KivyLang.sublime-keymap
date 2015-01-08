@@ -1,0 +1,4 @@
+[
+{ "keys": ["ctrl+space"],"command": "auto_complete"},
+{ "keys": ["enter"], "command": "insert", "args": {"characters": "\n"} },
+]

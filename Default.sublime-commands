@@ -1,0 +1,6 @@
+[
+  { "command": "kivylang_import", "caption" : "KivyLang: import snippet" },
+  { "command": "gen_kivy_runner_template", "caption" : "kivylang runner code generator" }, // not implement
+  { "command": "update_from_photoshop", "caption" : "update .kv from .PSD" },			   // not implement
+  { "command": "kivylang_pretranslator", "caption" : "kivylang pre-translator" }		   // not implement
+]
