@@ -5,12 +5,12 @@ Kivy lang syntax highligh and autocompletion.
 ## How to Use
 ####for widget/class scope auto-completetion.
 
-[alt tag](scope1.png) [alt tag](scope2.png)
+![alt tag](scope1.png) ![alt tag](scope2.png)
 enter code under widget or hit enter on empty line to trigger code hint
 
 
 ####for kivylang import auto-completetion.
-[alt tag](import1.png) [alt tag](import2.png) [alt tag](import3.png) [alt tag](import4.png) 
+![alt tag](import1.png) ![alt tag](import2.png) ![alt tag](import3.png) ![alt tag](import4.png) 
 
 
 ### Configure setting
