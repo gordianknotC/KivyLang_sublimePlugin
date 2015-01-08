@@ -2,7 +2,7 @@
 Kivy lang syntax highligh and autocompletion.
 
 
-## How to Use
+## Feature
 ####widget/class scope auto-completetion.
 
 ![alt tag](scope1.png) ![alt tag](scope2.png)
@@ -65,5 +65,6 @@ if you have a better api please let me know!
 
 
 ### todo
+- submit plugin to Sublime Package control
 - generate kivylang runner template
 - generate kv from PSD(photoshop) by translating html(table,tr,td) to kv with photoshopscript and python
