@@ -16,6 +16,7 @@ enter code under widget or hit "ctrl+space" on empty line to trigger code hint
 
 ### Configure setting
 Theoretically, no configuration is needed.( I'm not quite familiar with sublime configuration, so just raise an issue if you have problem running this plugin)
+
 In case your hightlight did not work!
 
 ```json
