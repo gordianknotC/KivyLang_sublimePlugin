@@ -3,20 +3,14 @@ Kivy lang syntax highligh and autocompletion.
 
 
 ## How to Use
+####for widget/class scope auto-completetion.
 
-* for widget/class scope auto-completetion.
-    - enter code under widget scope
-        ![alt tag](scope1.png) 
-        
-    - enter ctrl+space to trigger code hint
-        ![alt tag](scope2.png)
+[alt tag](scope1.png) [alt tag](scope2.png)
+enter code under widget or hit enter on empty line to trigger code hint
 
-        
-* for kivylang import auto-completetion.
-    ![alt tag](import1.png) 
-    ![alt tag](import2.png) 
-    ![alt tag](import3.png) 
-    ![alt tag](import4.png) 
+
+####for kivylang import auto-completetion.
+[alt tag](import1.png) [alt tag](import2.png) [alt tag](import3.png) [alt tag](import4.png) 
 
 
 ### Configure setting
@@ -41,6 +35,19 @@ In case your hightlight did not work!
 }
 
 ```
+
+### make Auto-completion for user defined lib
+For the reason that this plugin achievved auto-compoletion by searching api2.txt which fetched from kivy pdf manual. Due to it's fetched from kivy pdf manual, dirty and not well categorized, not only kivylang exposed api but also kivy were show up. If you want to add user defined lib and make it to recognize which content to show up, you have to add your user defined lib under api2.txt and comply with the existing rule. Which is:
+
+{property_or_methods}{space}{(your.library.path)}{newline}
+- for example:
+
+anchor_x (kivy.uix.anchorlayout.AnchorLayout)
+anchor_y (kivy.graphics.svg.Svg attribute)
+
+if you have a better api please let me know!
+
+
 
 
 ### Install
