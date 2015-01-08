@@ -38,8 +38,8 @@ In case your hightlight did not work!
 
 ```
 
-### make Auto-completion for user defined lib
-For the reason that this plugin achievved auto-compoletion by searching api2.txt which fetched from kivy pdf manual. Due to it's fetched from kivy pdf manual, dirty and not well categorized, not only kivylang exposed api but also kivy were show up. If you want to add user defined lib and make it to recognize which content to show up, you have to add your user defined lib under api2.txt and comply with the existing rule. Which is:
+### Auto-completion for user defined lib
+For the reason that this plugin is achieved by searching api2.txt, fetched from kivy pdf manual, to generate auto-completion list. Due to it's fetched directly from kivy pdf manual, not only kivylang exposed api but also kivy were show up. If you want to add user defined lib and make it recognize which content to show up, you have to add your user defined lib under api2.txt and comply with the existing rule. Which is:
 
 {property_or_methods}{space}{(your.library.path)}{newline}
 - for example:
