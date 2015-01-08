@@ -6,17 +6,17 @@ Kivy lang syntax highligh and autocompletion.
 
 * for widget/class scope auto-completetion.
     - enter code under widget scope
-        ![alt tag](scope1.jpg) 
+        ![alt tag](scope1.png) 
         
     - enter ctrl+space to trigger code hint
-        ![alt tag](scope2.jpg)
+        ![alt tag](scope2.png)
 
         
 * for kivylang import auto-completetion.
-    ![alt tag](import1.jpg) 
-    ![alt tag](import2.jpg) 
-    ![alt tag](import3.jpg) 
-    ![alt tag](import4.jpg) 
+    ![alt tag](import1.png) 
+    ![alt tag](import2.png) 
+    ![alt tag](import3.png) 
+    ![alt tag](import4.png) 
 
 
 ### Configure setting
