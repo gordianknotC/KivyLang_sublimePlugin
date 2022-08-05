@@ -3,14 +3,14 @@ Kivy lang syntax highligh and autocompletion.
 
 
 ## Feature
-####widget/class scope auto-completetion.
+#### widget/class scope auto-completetion.
 
 ![alt tag](scope1.png) ![alt tag](scope2.png)
 
 enter code under widget or hit "ctrl+space" on empty line to trigger code hint
 
 
-####import auto-completetion.
+#### import auto-completetion.
 ![alt tag](import1.png) ![alt tag](import2.png) ![alt tag](import3.png) ![alt tag](import4.png) 
 
 
